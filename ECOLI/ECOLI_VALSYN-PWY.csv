@@ -1,0 +1,6 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","PROTON + PYRUVATE + PYRUVATE = 2-ACETO-LACTATE + CARBON-DIOXIDE","X + abc + def = daecb + f","","FR","",""
+"R2","PROTON + PYRUVATE + PYRUVATE = 2-ACETO-LACTATE + CARBON-DIOXIDE","X + abc + def = adbfe + c","","FR","",""
+"R3","2-ACETO-LACTATE + NADPH + PROTON = CPD-13357 + NADP","abcde + X + X = baedc + X","","FR","",""
+"R4","2-KETO-ISOVALERATE + GLT = VAL + 2-KETOGLUTARATE","abcde + fghij = bacde + fghij","","FR","",""
+"R5","CPD-13357 = 2-KETO-ISOVALERATE + WATER","abcde = baecd + X","","F","",""

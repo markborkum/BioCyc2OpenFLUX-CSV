@@ -1,0 +1,4 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","XANTHOSINE + Pi = RIBOSE-1P + XANTHINE","abcdefghij + X = acefi + bdghj","","F","",""
+"R2","XANTHINE + PRPP = XANTHOSINE-5-PHOSPHATE + PPI","abcde + fghij = fagbhicdje + X","","F","",""
+"R3","XANTHINE + PRPP = XANTHOSINE-5-PHOSPHATE + PPI","abcde + fghij = fagbhicdje + X","","F","",""

@@ -1,0 +1,4 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","CPD-2961 + NADP = RIBULOSE-5P + CARBON-DIOXIDE + NADPH","abcdef + X = eadbc + f + X","","F","",""
+"R2","GLC-6-P + NADP = D-6-P-GLUCONO-DELTA-LACTONE + NADPH + PROTON","abcdef + X = abcdef + X + X","","F","",""
+"R3","D-6-P-GLUCONO-DELTA-LACTONE + WATER = PROTON + CPD-2961","abcdef + X = X + abcdef","","F","",""

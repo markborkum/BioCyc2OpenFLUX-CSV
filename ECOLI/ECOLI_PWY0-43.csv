@@ -1,0 +1,6 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","PROPIONYL-COA + SUC = PROPIONATE + SUC-COA","abcdefghijklmnopqrstuvwy + zABC = ado + bcAzefghijklmnCBpqrstuvwy","","FR","",""
+"R2","PROPIONYL-COA + SUC = PROPIONATE + SUC-COA","abcdefghijklmnopqrstuvwy + zABC = ado + cbzAefghijklmnBCpqrstuvwy","","FR","",""
+"R3","PROTON + METHYL-MALONYL-COA = PROPIONYL-COA + CARBON-DIOXIDE","X + abcdefghijklmnopqrstuvwyz = abcldefghijkmnyopqrstuvz + w","","F","",""
+"R4","SUC-COA = METHYL-MALONYL-COA","abcdefghijklmnopqrstuvwyz = dabefghijklcmnqrstuvwyopz","","FR","",""
+"R5","SUC-COA = METHYL-MALONYL-COA","abcdefghijklmnopqrstuvwyz = cbaefghijkldmnqrstuvwyopz","","FR","",""

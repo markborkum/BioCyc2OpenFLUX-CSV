@@ -1,0 +1,3 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","L-LACTATE + Acceptor = PYRUVATE + Donor-H2","abc + X = abc + X","","F","",""
+"R2","WATER + NAD + LACTALD = PROTON + PROTON + NADH + L-LACTATE","X + X + abc = X + X + X + acb","","F","",""

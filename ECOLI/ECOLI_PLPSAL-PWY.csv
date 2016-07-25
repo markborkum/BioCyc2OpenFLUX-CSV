@@ -1,0 +1,5 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","ATP + PYRIDOXAL = PROTON + ADP + PYRIDOXAL_PHOSPHATE","X + abcdefgh = X + X + abdcefgh","","F","",""
+"R2","OXYGEN-MOLECULE + PYRIDOXINE-5P = HYDROGEN-PEROXIDE + PYRIDOXAL_PHOSPHATE","X + abcdefgh = X + abcdefgh","","F","",""
+"R3","ATP + PYRIDOXAMINE = PROTON + ADP + PYRIDOXAMINE-5P","X + abcdefgh = X + X + abcdefgh","","F","",""
+"R4","ATP + PYRIDOXINE = PROTON + ADP + PYRIDOXINE-5P","X + abcdefgh = X + X + abdcefgh","","F","",""

@@ -1,0 +1,7 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","OXALACETIC_ACID + GLT = L-ASPARTATE + 2-KETOGLUTARATE","abcd + efghi = abcd + efghi","","FR","",""
+"R2","O-PHOSPHO-L-HOMOSERINE + WATER = Pi + THR","abcd + X = X + bacd","","F","",""
+"R3","HOMO-SER + ATP = PROTON + O-PHOSPHO-L-HOMOSERINE + ADP","abcd + X = X + abcd + X","","F","",""
+"R4","NADH-P-OR-NOP + L-ASPARTATE-SEMIALDEHYDE + PROTON = NAD-P-OR-NOP + HOMO-SER","abcdefghijklmnopqrstu + vwyz + X = abcdefghijklmnopqrstu + vwyz","","F","",""
+"R5","PROTON + NADPH + L-BETA-ASPARTYL-P = NADP + Pi + L-ASPARTATE-SEMIALDEHYDE","X + X + abcd = X + X + acbd","","FR","",""
+"R6","L-ASPARTATE + ATP = L-BETA-ASPARTYL-P + ADP","abcd + X = abcd + X","","F","",""

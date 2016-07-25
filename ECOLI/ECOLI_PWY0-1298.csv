@@ -1,0 +1,7 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","NAD + CO-A + ACETALD = PROTON + NADH + ACETYL-COA","X + X + ab = X + X + ab","","FR","",""
+"R2","DEOXY-RIBOSE-5P = ACETALD + GAP","abcde = ae + cbd","","FR","",""
+"R3","DEOXY-D-RIBOSE-1-PHOSPHATE = DEOXY-RIBOSE-5P","abcde = abcde","","FR","",""
+"R4","THYMIDINE + Pi = DEOXY-D-RIBOSE-1-PHOSPHATE + THYMINE","abcdefghij + X = bdfgh + aceij","","FR","",""
+"R5","DEOXYURIDINE + Pi = DEOXY-D-RIBOSE-1-PHOSPHATE + URACIL","abcdefghi + X = cdefh + abgi","","FR","",""
+"R6","PROTON + WATER + DEOXYCYTIDINE = DEOXYURIDINE + AMMONIUM","X + X + abcdefghi = abcdefghi + X","","F","",""

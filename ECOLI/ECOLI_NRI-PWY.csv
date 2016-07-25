@@ -1,0 +1,3 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","AMMONIUM + GLT + ATP = PROTON + GLN + ADP + Pi","X + abcde + X = X + abcde + X + X","","F","",""
+"R2","Glutamine-synthetase-Tyr + ATP = Glutamine-synthetase-adenylyl-Tyr + PPI","abcdefghi + X = abcdefghi + X","","F","",""

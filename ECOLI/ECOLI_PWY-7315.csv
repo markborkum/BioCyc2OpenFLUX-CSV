@@ -1,0 +1,5 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","DTDP-D-GLUCOSE = WATER + DTDP-DEOH-DEOXY-GLUCOSE","abcdefghijklmnop = X + adbcefhgijklmnop","","F","",""
+"R2","PROTON + GLC-1-P + TTP = DTDP-D-GLUCOSE + PPI","X + abcdef + ghijklmnop = ghiajklbmncdeofp + X","","FR","",""
+"R3","DTDP-DEOH-DEOXY-GLUCOSE + GLT = TDP-D-FUCOSAMINE + 2-KETOGLUTARATE","abcdefghijklmnop + qrstu = abcdefghijklmnop + qrstu","","FR","",""
+"R4","TDP-D-FUCOSAMINE + ACETYL-COA = PROTON + TDP-FUC4NAC + CO-A","abcdefghijklmnop + qr = X + abqcdefgrhijklmnop + X","","F","",""

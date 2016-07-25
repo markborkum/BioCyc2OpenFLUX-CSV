@@ -1,0 +1,2 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","ATP + ACETYL-COA + HCO3 = PROTON + MALONYL-COA + Pi + ADP","X + abcdefghijklmnopqrstuvw + y = X + cbdefgahijkmnylopqrstuvw + X + X","","F","",""

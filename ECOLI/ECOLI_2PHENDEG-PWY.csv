@@ -1,0 +1,4 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","PHENYLACETALDEHYDE = PHENYLACETALDEHYDE","abcdefgh = abcdefgh","","F","",""
+"R2","WATER + NAD + PHENYLACETALDEHYDE = PROTON + PROTON + NADH + PHENYLACETATE","X + X + abcdefgh = X + X + X + abcdefhg","","FR","",""
+"R3","WATER + OXYGEN-MOLECULE + PHENYLETHYLAMINE = PHENYLACETALDEHYDE + AMMONIUM + HYDROGEN-PEROXIDE","X + X + abcdefgh = abcdefgh + X + X","","F","",""

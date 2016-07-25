@@ -1,0 +1,3 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","CPD-13314 + NADPH + PROTON = CPD-13315 + NADP","abcdefghijklmnopqrstu + X + X = abcdefghijklmnopqrstu + X","","F","",""
+"R2","CPD-6602 + NADPH + PROTON = CPD-13314 + NADP","abcdefghijklmnopqrstu + X + X = badcfehgjilkmonqpsrut + X","","F","",""

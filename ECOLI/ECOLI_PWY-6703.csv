@@ -1,0 +1,5 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","CPD-13043 + AMMONIUM + ATP = PROTON + 7-CYANO-7-DEAZAGUANINE + ADP + Pi + WATER","abcdefg + X + X = X + fabcdeg + X + X + X","","F","",""
+"R2","PROTON + CPD0-1699 = CPD-13043 + AMMONIUM","X + abcdefg = abcdefg + X","","F","",""
+"R3","DIHYDRONEOPTERIN-P3 + WATER = PROTON + PROTON + CPD0-1699 + P3I + ACETALD","abcdefghi + X = X + X + aceghfi + X + bd","","F","",""
+"R4","GTP + WATER = PROTON + FORMATE + DIHYDRONEOPTERIN-P3","abcdefghij + X = X + b + iafcdeghj","","F","",""

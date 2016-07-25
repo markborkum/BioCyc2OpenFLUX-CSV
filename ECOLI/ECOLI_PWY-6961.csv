@@ -1,0 +1,8 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","L-RIBULOSE-5-P = XYLULOSE-5-PHOSPHATE","abcde = abcde","","FR","",""
+"R2","L-XYLULOSE-5-P = L-RIBULOSE-5-P","abcde = abcde","","F","",""
+"R3","PROTON + CPD-2343 = L-XYLULOSE-5-P + CARBON-DIOXIDE","X + abcdef = eadbc + f","","F","",""
+"R4","PROTON + CPD-334 + NADH = 3-KETO-L-GULONATE + NAD","X + abcdef + X = abcdef + X","","F","",""
+"R5","3-KETO-L-GULONATE + ATP = PROTON + CPD-2343 + ADP","abcdef + X = X + abcdef + X","","F","",""
+"R6","L-DEHYDRO-ASCORBATE + WATER = CPD-13907","abcdef + X = abefdc","","F","",""
+"R7","CPD-13907 = CPD-334 + PROTON","abcdef = abcfed + X","","F","",""

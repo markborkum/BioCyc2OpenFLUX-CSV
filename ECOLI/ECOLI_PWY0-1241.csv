@@ -1,0 +1,6 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","D-SEDOHEPTULOSE-7-P = D-ALPHABETA-D-HEPTOSE-7-PHOSPHATE","abcdefg = bdegcfa","","F","",""
+"R2","ADP-D-GLYCERO-D-MANNO-HEPTOSE = ADP-L-GLYCERO-D-MANNO-HEPTOSE","abcdefghijklmnopq = abcdefghijklmnopq","","F","",""
+"R3","D-BETA-D-HEPTOSE-17-DIPHOSPHATE + WATER = D-BETA-D-HEPTOSE-1-P + Pi","abcdefg + X = abcdefg + X","","F","",""
+"R4","PROTON + D-BETA-D-HEPTOSE-1-P + ATP = ADP-D-GLYCERO-D-MANNO-HEPTOSE + PPI","X + abcdefg + X = abcdefg + X","","F","",""
+"R5","D-ALPHABETA-D-HEPTOSE-7-PHOSPHATE + ATP = PROTON + D-BETA-D-HEPTOSE-17-DIPHOSPHATE + ADP","abcdefg + X = X + abcdefg + X","","F","",""

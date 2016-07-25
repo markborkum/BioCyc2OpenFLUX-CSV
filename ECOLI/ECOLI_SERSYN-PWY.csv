@@ -1,0 +1,4 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","3-P-SERINE + WATER = SER + Pi","abc + X = abc + X","","F","",""
+"R2","G3P + NAD = PROTON + 3-P-HYDROXYPYRUVATE + NADH","abc + X = X + abc + X","","FR","",""
+"R3","3-P-HYDROXYPYRUVATE + GLT = 3-P-SERINE + 2-KETOGLUTARATE","abc + defgh = abc + defgh","","FR","",""

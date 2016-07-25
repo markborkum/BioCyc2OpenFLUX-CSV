@@ -1,0 +1,7 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","DI-H-OROTATE + Ubiquinones = OROTATE + Ubiquinols","abcde + fghijklmnopqrs = abcde + fghijklmnopqrs","","F","",""
+"R2","PROTON + OROTIDINE-5-PHOSPHATE = CARBON-DIOXIDE + UMP","X + a = a + X","","F","",""
+"R3","PRPP + OROTATE = OROTIDINE-5-PHOSPHATE + PPI","abcde + fghij = fagbhcdeij + X","","FR","",""
+"R4","PRPP + OROTATE = OROTIDINE-5-PHOSPHATE + PPI","abcde + fghij = fagbhcdeij + X","","FR","",""
+"R5","PROTON + CARBAMYUL-L-ASPARTATE = DI-H-OROTATE + WATER","X + abcde = abcde + X","","FR","",""
+"R6","L-ASPARTATE + CARBAMOYL-P = PROTON + CARBAMYUL-L-ASPARTATE + Pi","abcd + e = X + abcde + X","","F","",""

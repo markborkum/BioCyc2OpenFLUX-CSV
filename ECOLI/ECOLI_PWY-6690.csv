@@ -1,0 +1,7 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","CPD-14447 = OXOPENTENOATE","abcde = abcde","","FR","",""
+"R2","CPD-10797 + OXYGEN-MOLECULE + NADH + PROTON = CPD-10796 + WATER + NAD","abcdefghi + X + X + X = abcdeghif + X + X","","F","",""
+"R3","CPD-13034 + NAD = CPD-10796 + NADH + PROTON","abcdefghi + X = abcdefghi + X + X","","F","",""
+"R4","CPD0-2184 + WATER = CPD-14447 + FUM + PROTON","abcdefghi + X = bacgi + defh + X","","F","",""
+"R5","CPD-10796 + OXYGEN-MOLECULE = CPD0-2184 + PROTON","abcdefghi + X = abcdefghi + X","","F","",""
+"R6","CPD-674 + NADH + OXYGEN-MOLECULE + PROTON = CPD-13034 + NAD","abcdefghi + X + X + X = bdafghcie + X","","F","",""

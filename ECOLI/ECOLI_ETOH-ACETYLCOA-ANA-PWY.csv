@@ -1,0 +1,3 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","NAD + CO-A + ACETALD = PROTON + NADH + ACETYL-COA","X + X + ab = X + X + ab","","FR","",""
+"R2","ETOH + NAD = ACETALD + NADH + PROTON","ab + X = ab + X + X","","FR","",""

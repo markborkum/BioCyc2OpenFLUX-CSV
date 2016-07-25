@@ -1,0 +1,5 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","L-RIBULOSE-5-P = XYLULOSE-5-PHOSPHATE","abcde = abcde","","FR","",""
+"R2","L-XYLULOSE-5-P = L-RIBULOSE-5-P","abcde = abcde","","F","",""
+"R3","L-XYLULOSE + ATP = PROTON + L-XYLULOSE-5-P + ADP","abcde + X = X + badce + X","","F","",""
+"R4","L-LYXOSE = L-XYLULOSE","abcde = aebdc","","FR","",""

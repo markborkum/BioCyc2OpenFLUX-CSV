@@ -1,0 +1,4 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","CPD-10551 = CPD0-2467","abcde = abcde","","F","",""
+"R2","DIHYDROXYPENTANEDIONE + ATP = PROTON + CPD-10551 + ADP","abcde + X = X + abcde + X","","F","",""
+"R3","CPD0-2467 + CO-A = DIHYDROXY-ACETONE-PHOSPHATE + ACETYL-COA","abcde + X = ebd + ac","","F","",""

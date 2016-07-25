@@ -1,0 +1,4 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","PROTON + S-ADENOSYLMETHIONINE = CARBON-DIOXIDE + S-ADENOSYLMETHIONINAMINE","X + abcdefghijklmno = o + abgcdefhijklmn","","F","",""
+"R2","PUTRESCINE + S-ADENOSYLMETHIONINAMINE = PROTON + SPERMIDINE + 5-METHYLTHIOADENOSINE","abcd + efghijklmnopqr = X + bafdgch + eijklmnopqr","","F","",""
+"R3","PUTRESCINE + S-ADENOSYLMETHIONINAMINE = PROTON + SPERMIDINE + 5-METHYLTHIOADENOSINE","abcd + efghijklmnopqr = X + abfcgdh + eijklmnopqr","","F","",""

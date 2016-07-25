@@ -1,0 +1,4 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","GLC-6-P = ALPHA-GLC-6-P","abcdef = abcdef","","FR","",""
+"R2","ALPHA-GLC-6-P = GLC-1-P","abcdef = abcdef","","FR","",""
+"R3","PROTON + GLC-1-P + ATP = ADP-D-GLUCOSE + PPI","X + abcdef + X = abcdef + X","","F","",""

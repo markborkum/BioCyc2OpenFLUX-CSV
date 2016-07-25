@@ -1,0 +1,6 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","L-CYSTATHIONINE = PROTON + 2-AMINOACRYLATE + HOMO-CYS","abcdefg = X + ceg + abdf","","F","",""
+"R2","CYS + O-SUCCINYL-L-HOMOSERINE = PROTON + SUC + L-CYSTATHIONINE","abc + defghijk = X + edji + fgahbkc","","F","",""
+"R3","HOMO-CYS + 5-METHYL-THF-GLU-N = MET + THF-GLU-N","abcd + efghijklmnopqrstuvwy = eabcd + fghijklmnopqrstuvwy","","F","",""
+"R4","CPD-1302 + HOMO-CYS = MET + CPD-1301","abcdefghijklmnopqrstuvwyzABCDE + FGHI = aFGHI + bcdefghijklmnopqrstuvwyzABCDE","","F","",""
+"R5","HOMO-SER + SUC-COA = O-SUCCINYL-L-HOMOSERINE + CO-A","abcd + efgh = efabcghd + X","","F","",""

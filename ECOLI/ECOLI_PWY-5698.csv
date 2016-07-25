@@ -1,0 +1,5 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","CPD0-2298 + WATER = CPD-1091 + AMMONIUM","abc + X = abc + X","","F","",""
+"R2","PROTON + PROTON + ALLANTOATE + WATER = CPD0-2298 + AMMONIUM + CARBON-DIOXIDE","X + X + abcd + X = abd + X + c","","F","",""
+"R3","PROTON + PROTON + ALLANTOATE + WATER = CPD0-2298 + AMMONIUM + CARBON-DIOXIDE","X + X + abcd + X = abc + X + d","","F","",""
+"R4","S-ALLANTOIN + WATER = PROTON + ALLANTOATE","abcd + X = X + abdc","","F","",""

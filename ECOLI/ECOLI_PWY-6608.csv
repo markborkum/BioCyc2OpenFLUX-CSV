@@ -1,0 +1,5 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","GUANOSINE + Pi = RIBOSE-1P + GUANINE","abcdefghij + X = acefi + bdghj","","FR","",""
+"R2","XANTHINE + NAD + WATER = URATE + NADH + PROTON","abcde + X + X = bcdae + X + X","","F","",""
+"R3","GMP + WATER = GUANOSINE + Pi","abcdefghij + X = abcdefghij + X","","F","",""
+"R4","PROTON + WATER + GUANINE = AMMONIUM + XANTHINE","X + X + abcde = X + abcde","","F","",""

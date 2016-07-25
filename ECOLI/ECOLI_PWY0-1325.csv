@@ -1,0 +1,4 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","L-ASPARTATE + AMMONIUM + ATP = PROTON + ASN + PPI + AMP","abcd + X + X = X + abcd + X + X","","F","",""
+"R2","GLN + L-ASPARTATE + ATP + WATER = PROTON + GLT + ASN + PPI + AMP","abcde + fghi + X + X = X + abcde + fghi + X + X","","F","",""
+"R3","GLN + L-ASPARTATE + ATP + WATER = PROTON + GLT + ASN + PPI + AMP","abcde + fghi + X + X = X + abcde + fghi + X + X","","F","",""

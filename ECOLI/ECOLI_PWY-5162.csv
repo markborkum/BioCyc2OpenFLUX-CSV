@@ -1,0 +1,4 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","NAD + CO-A + ACETALD = PROTON + NADH + ACETYL-COA","X + X + ab = X + X + ab","","FR","",""
+"R2","4-HYDROXY-2-KETOVALERATE = ACETALD + PYRUVATE","abcde = ac + bde","","FR","",""
+"R3","OXOPENTENOATE + WATER = 4-HYDROXY-2-KETOVALERATE","abcde + X = acbde","","F","",""

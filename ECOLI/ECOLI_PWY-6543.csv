@@ -1,0 +1,3 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","4-AMINO-4-DEOXYCHORISMATE = PROTON + P-AMINO-BENZOATE + PYRUVATE","abcdefghij = X + dbhcfgj + aei","","FR","",""
+"R2","GLN + CHORISMATE = 4-AMINO-4-DEOXYCHORISMATE + GLT","abcde + fghijklmno = fghijklmno + abcde","","FR","",""

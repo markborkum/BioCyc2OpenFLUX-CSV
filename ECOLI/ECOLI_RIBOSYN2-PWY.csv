@@ -1,0 +1,7 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","PROTON + WATER + DIAMINO-OH-PHOSPHORIBOSYLAMINO-PYR = CPD-602 + AMMONIUM","X + X + abcdefghi = abcdefghi + X","","F","",""
+"R2","CPD-602 + NADPH + PROTON = CPD-1086 + NADP","abcdefghi + X + X = haebcdfgi + X","","F","",""
+"R3","RIBULOSE-5P = PROTON + DIHYDROXY-BUTANONE-P + FORMATE","abcde = X + adce + b","","F","",""
+"R4","CPD-1086 + WATER = AMINO-RIBOSYLAMINO-1H-3H-PYR-DIONE + Pi","abcdefghi + X = abcdefghi + X","","F","",""
+"R5","FMN + ATP + PROTON = FAD + PPI","abcdefghijklmnopq + X + X = abcdefghijklmnopq + X","","F","",""
+"R6","RIBOFLAVIN + ATP = PROTON + FMN + ADP","abcdefghijklmnopq + X = X + abcdefghijklmnopq + X","","F","",""

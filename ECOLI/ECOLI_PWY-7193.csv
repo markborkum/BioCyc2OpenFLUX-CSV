@@ -1,0 +1,4 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","CYTIDINE + ATP = CMP + ADP + PROTON","abcdefghi + X = abcdefghi + X + X","","F","",""
+"R2","URIDINE + ATP = PROTON + UMP + ADP","","","F","",""
+"R3","PROTON + WATER + CYTIDINE = URIDINE + AMMONIUM","X + X + abcdefghi = abcdefghi + X","","F","",""

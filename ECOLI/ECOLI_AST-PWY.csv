@@ -1,0 +1,5 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","N2-SUCCINYLGLUTAMATE + WATER = SUC + GLT","abcdefghi + X = bdfh + acegi","","F","",""
+"R2","CPD-822 + NAD + WATER = N2-SUCCINYLGLUTAMATE + NADH + PROTON + PROTON","abcdefghi + X + X = bcadfgehi + X + X + X","","F","",""
+"R3","N2-SUCCINYLORNITHINE + 2-KETOGLUTARATE = CPD-822 + GLT","abcdefghi + jklmn = abcdefghi + jklmn","","FR","",""
+"R4","ARG + SUC-COA = PROTON + CPD-421 + CO-A","abcdef + ghij = X + abhgcdjief + X","","F","",""

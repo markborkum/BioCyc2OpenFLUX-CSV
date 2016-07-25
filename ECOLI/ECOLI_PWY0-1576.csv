@@ -1,0 +1,3 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","Menaquinols + FUM = Menaquinones + SUC","abcdefghijklmnop + qrst = abcdefghijklmnop + qrst","","FR","",""
+"R2","Menaquinones + PROTON + PROTON + HYDROGEN-MOLECULE = Menaquinols + PROTON + PROTON","abcdefghijklmnop + X + X + X = abcdefghijklmnop + X + X","","F","",""

@@ -1,0 +1,6 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","GLC-6-P = FRUCTOSE-6P","abcdef = afbcde","","FR","",""
+"R2","D-GLUCOSAMINE-6-P = GLUCOSAMINE-1P","abcdef = abcdef","","FR","",""
+"R3","FRUCTOSE-6P + GLN = D-GLUCOSAMINE-6-P + GLT","abcdef + ghijk = acfdeb + ghijk","","FR","",""
+"R4","GLUCOSAMINE-1P + ACETYL-COA = PROTON + N-ACETYL-D-GLUCOSAMINE-1-P + CO-A","abcdef + gh = X + gahbcdef + X","","F","",""
+"R5","PROTON + N-ACETYL-D-GLUCOSAMINE-1-P + UTP = UDP-N-ACETYL-D-GLUCOSAMINE + PPI","X + abcdefgh + ijklmnopq = aijbkcdlmefngophq + X","","F","",""

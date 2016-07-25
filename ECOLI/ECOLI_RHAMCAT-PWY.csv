@@ -1,0 +1,6 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","RHAMNOSE = CPD0-1112","abcdef = abcdef","","F","",""
+"R2","CPD-16566 = CPD-16567","abcdef = abcefd","","F","",""
+"R3","CPD0-1112 = CPD-16566","abcdef = afbecd","","FR","",""
+"R4","CPD-16567 + ATP = PROTON + RHAMNULOSE-1P + ADP","abcdef + X = X + abcfde + X","","F","",""
+"R5","RHAMNULOSE-1P = LACTALD + DIHYDROXY-ACETONE-PHOSPHATE","abcdef = aec + fbd","","FR","",""

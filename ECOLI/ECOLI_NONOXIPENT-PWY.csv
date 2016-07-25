@@ -1,0 +1,6 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","RIBULOSE-5P = RIBOSE-5P","abcde = bdeca","","FR","",""
+"R2","RIBULOSE-5P = XYLULOSE-5-PHOSPHATE","abcde = abcde","","FR","",""
+"R3","RIBOSE-5P + XYLULOSE-5-PHOSPHATE = D-SEDOHEPTULOSE-7-P + GAP","abcde + fghij = fahbecd + jgi","","FR","",""
+"R4","ERYTHROSE-4P + XYLULOSE-5-PHOSPHATE = FRUCTOSE-6P + GAP","abcd + efghi = befhig + adc","","FR","",""
+"R5","GAP + D-SEDOHEPTULOSE-7-P = FRUCTOSE-6P + ERYTHROSE-4P","abc + defghij = bdcahf + jeig","","FR","",""

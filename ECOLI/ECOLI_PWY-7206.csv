@@ -1,0 +1,5 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","5-HYDROXY-CTP + WATER = CPD-15158 + PPI + PROTON","abcdefghi + X = abcdefghi + X + X","","F","",""
+"R2","5-HYDROXY-CTP + WATER = CPD-15158 + PPI + PROTON","abcdefghi + X = abcdefghi + X + X","","F","",""
+"R3","DUTP + WATER = PROTON + DUMP + PPI","abcdefghi + X = X + abcdefghi + X","","F","",""
+"R4","DCTP + WATER = PROTON + DCMP + PPI","abcdefghi + X = X + abcdefghi + X","","F","",""

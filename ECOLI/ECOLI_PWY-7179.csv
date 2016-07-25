@@ -1,0 +1,5 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","PROTON + WATER + DEOXYADENOSINE = AMMONIUM + DEOXYINOSINE","X + X + abcdefghij = X + abcdefghji","","F","",""
+"R2","DEOXYADENOSINE + Pi = ADENINE + DEOXY-D-RIBOSE-1-PHOSPHATE","abcdefghij + X = dchij + abefg","","FR","",""
+"R3","DEOXYGUANOSINE + Pi = GUANINE + DEOXY-D-RIBOSE-1-PHOSPHATE","abcdefghij + X = cghij + abdef","","FR","",""
+"R4","DEOXYINOSINE + Pi = HYPOXANTHINE + DEOXY-D-RIBOSE-1-PHOSPHATE","abcdefghij + X = dchij + abefg","","FR","",""

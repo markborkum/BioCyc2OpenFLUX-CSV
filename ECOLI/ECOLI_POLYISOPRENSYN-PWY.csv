@@ -1,0 +1,4 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","DELTA3-ISOPENTENYL-PP = CPD-4211","abcde = bacde","","FR","",""
+"R2","GERANYL-PP + DELTA3-ISOPENTENYL-PP = FARNESYL-PP + PPI","abcdefghij + klmno = lkacndmbefghoij + X","","F","",""
+"R3","CPD-4211 + DELTA3-ISOPENTENYL-PP = GERANYL-PP + PPI","abcde + fghij = abgdcfhiej + X","","F","",""

@@ -1,0 +1,4 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","GTP + WATER = PROTON + FORMATE + DIHYDRONEOPTERIN-P3","abcdefghij + X = X + b + iafcdeghj","","F","",""
+"R2","DIHYDRONEOPTERIN-P3 = DIHYDROMONAPTERIN-TRIPHOSPHATE","abcdefghi = abcdefghi","","FR","",""
+"R3","PROTON + CPD-11770 + NADPH = CPD0-2101 + NADP","X + abcdefghi + X = abcdefghi + X","","F","",""

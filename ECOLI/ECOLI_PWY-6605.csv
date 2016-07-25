@@ -1,0 +1,4 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","ADENOSINE + WATER = D-Ribofuranose + ADENINE","abcdefghij + X = adfgj + cbehi","","F","",""
+"R2","PRPP + ADENINE = PPI + AMP","","","F","",""
+"R3","PRPP + ADENINE = PPI + AMP","","","F","",""

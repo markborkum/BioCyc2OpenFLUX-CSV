@@ -1,0 +1,4 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","B-KETOACYL-ACP + NADPH + PROTON = OH-ACYL-ACP + NADP","","","F","",""
+"R2","TRANS-D2-ENOYL-ACP + NADH + PROTON = Saturated-Fatty-Acyl-ACPs + NAD","","","F","",""
+"R3","OH-ACYL-ACP = TRANS-D2-ENOYL-ACP + WATER","","","F","",""

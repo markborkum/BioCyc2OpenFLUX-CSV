@@ -1,0 +1,4 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","Oxo-glutarate-dehydrogenase-DH-lipoyl + NAD = Oxo-glutarate-dehydrogenase-lipoyl + NADH + PROTON","abcdefghijklmno + X = abcdefghijklmno + X + X","","F","",""
+"R2","CO-A + Oxo-glutarate-dehydro-suc-DH-lipoyl = SUC-COA + Oxo-glutarate-dehydrogenase-DH-lipoyl","X + abcdefghijklmnopqrs = ijrs + abcdefghklmnopq","","FR","",""
+"R3","2-KETOGLUTARATE + Oxo-glutarate-dehydrogenase-lipoyl + PROTON = Oxo-glutarate-dehydro-suc-DH-lipoyl + CARBON-DIOXIDE","abcde + fghijklmnopqrst + X = fghijklmbanopqrstdc + e","","F","",""

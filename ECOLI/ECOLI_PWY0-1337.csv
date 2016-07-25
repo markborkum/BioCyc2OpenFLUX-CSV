@@ -1,0 +1,4 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","CPD0-1162 + WATER = CPD0-1163","abcdefghijklmnopqrstuvwyzABCDEFGHIJ + X = abcdefghijklmpqrsotuvwnyzABCDEFGHIJ","","F","",""
+"R2","CPD0-1158 + WATER = PROTON + CPD0-1159 + CO-A","abcdefghijklmn + X = X + abcdefghijklmn + X","","F","",""
+"R3","CPD0-1162 = CPD0-1158","abcdefghijklmnopqrstuvwyzABCDEFGHIJ = acbdefghijklmnopqrstuvwyzABCDEFGHIJ","","FR","",""

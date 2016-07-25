@@ -1,0 +1,6 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","Thi-S + ATP + PROTON = Adenylated-ThiS-Proteins + PPI","","","F","",""
+"R2","PYRUVATE + GAP + PROTON = CARBON-DIOXIDE + DEOXYXYLULOSE-5P","abc + def + X = c + aebfd","","F","",""
+"R3","CPD-13575 + AMINO-HYDROXYMETHYL-METHYLPYRIMIDINE-PP + PROTON + PROTON = THIAMINE-P + CARBON-DIOXIDE + PPI","abcdefg + hijklm + X + X = ahbcijfdklem + g + X","","F","",""
+"R4","THIAMINE-P + ATP = THIAMINE-PYROPHOSPHATE + ADP","abcdefghijkl + X = abcdefghijkl + X","","F","",""
+"R5","AMINO-HYDROXYMETHYL-METHYL-PYR-P + ATP = AMINO-HYDROXYMETHYL-METHYLPYRIMIDINE-PP + ADP","abcdef + X = abcdef + X","","F","",""

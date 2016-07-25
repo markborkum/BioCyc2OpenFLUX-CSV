@@ -1,0 +1,3 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","Ubiquinones + GLYCEROL-3P = Ubiquinols + DIHYDROXY-ACETONE-PHOSPHATE","abcdefghijklmn + opq = abcdefghijklmn + opq","","F","",""
+"R2","Ubiquinols + NITRATE = Ubiquinones + NITRITE + WATER","abcdefghijklmn + X = abcdefghijklmn + X + X","","F","",""

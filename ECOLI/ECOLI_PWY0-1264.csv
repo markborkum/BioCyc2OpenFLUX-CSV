@@ -1,0 +1,5 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","BCCP-dimers + HCO3 + ATP = Pi + Carboxybiotin-BCCP + ADP + PROTON","","","F","",""
+"R2","BCCP-dimers + HCO3 + ATP = Pi + Carboxybiotin-BCCP + ADP + PROTON","","","F","",""
+"R3","BCCP-biotin-monomers + BCCP-biotin-monomers = BCCP-dimers","","","F","",""
+"R4","BCCP-monomers + BIOTIN + ATP = PPI + AMP + BCCP-biotin-monomers + PROTON","","","F","",""

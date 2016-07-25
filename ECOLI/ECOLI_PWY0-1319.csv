@@ -1,0 +1,5 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","GLYCEROL-3P + ACYL-ACP = ACYL-SN-GLYCEROL-3P + ACP","abc + X = abc + X","","F","",""
+"R2","CTP + L-PHOSPHATIDATE + PROTON = PPI + CDPDIACYLGLYCEROL","abcdefghi + jklmn + X = X + abjkclmndefghi","","F","",""
+"R3","ACYL-SN-GLYCEROL-3P + ACYL-ACP = L-PHOSPHATIDATE + ACP","abcd + X = abcd + X","","F","",""
+"R4","NADH-P-OR-NOP + DIHYDROXY-ACETONE-PHOSPHATE + PROTON = NAD-P-OR-NOP + GLYCEROL-3P","abcdefghijklmnopqrstu + vwy + X = abcdefghijklmnopqrstu + vwy","","F","",""

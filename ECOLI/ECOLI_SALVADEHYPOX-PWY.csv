@@ -1,0 +1,6 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","AMP + WATER = ADENOSINE + Pi","","","F","",""
+"R2","HYPOXANTHINE + NAD + WATER = XANTHINE + NADH + PROTON","abcde + X + X = acdeb + X + X","","F","",""
+"R3","XANTHINE + NAD + WATER = URATE + NADH + PROTON","abcde + X + X = bcdae + X + X","","F","",""
+"R4","PROTON + WATER + ADENOSINE = AMMONIUM + INOSINE","X + X + abcdefghij = X + abcdefgihj","","F","",""
+"R5","INOSINE + Pi = RIBOSE-1P + HYPOXANTHINE","abcdefghij + X = adfgj + cbehi","","FR","",""

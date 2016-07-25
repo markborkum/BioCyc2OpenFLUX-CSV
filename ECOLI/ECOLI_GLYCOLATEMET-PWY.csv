@@ -1,0 +1,6 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","PROTON + TARTRONATE-S-ALD + NADH = GLYCERATE + NAD","X + abc + X = abc + X","","FR","",""
+"R2","Acceptor + GLYCOLLATE = Donor-H2 + GLYOX","X + ab = X + ab","","F","",""
+"R3","PROTON + GLYOX + GLYOX = CARBON-DIOXIDE + TARTRONATE-S-ALD","X + ab + cd = d + cab","","F","",""
+"R4","PROTON + GLYOX + GLYOX = CARBON-DIOXIDE + TARTRONATE-S-ALD","X + ab + cd = b + acd","","F","",""
+"R5","GLYCERATE + ATP = PROTON + G3P + ADP","abc + X = X + abc + X","","F","",""

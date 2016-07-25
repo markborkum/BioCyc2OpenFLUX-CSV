@@ -1,0 +1,8 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","CPD-9925 + WATER = PROTON + DIHYDROXYNAPHTHOATE + CO-A","abcdefghijk + X = X + abcdefghijk + X","","F","",""
+"R2","PROTON + CPD-6972 = CPD-9925 + WATER","X + abcdefghijklmnopqrstuvwyzABCDEFG = abcdefijklgmnopqrhstuwFyzABCDEvG + X","","F","",""
+"R3","CPD-9924 = CPD-9923 + PYRUVATE","abcdefghijklmn = dbiceghljkn + afm","","F","",""
+"R4","PROTON + ISOCHORISMATE + 2-KETOGLUTARATE = CPD-9924 + CARBON-DIOXIDE","X + abcdefghij + klmno = abkdlecmgnfhij + o","","F","",""
+"R5","CHORISMATE = ISOCHORISMATE","abcdefghij = acbgefhdij","","FR","",""
+"R6","CPD-9923 = O-SUCCINYLBENZOATE + WATER","abcdefghijk = acbhdefjgik + X","","F","",""
+"R7","ATP + O-SUCCINYLBENZOATE + CO-A = AMP + PPI + CPD-6972","X + abcdefghijk + X = X + X + abcdefghijk","","F","",""

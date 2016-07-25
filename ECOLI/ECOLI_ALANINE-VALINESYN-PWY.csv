@@ -1,0 +1,4 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","PYRUVATE + VAL = L-ALPHA-ALANINE + 2-KETO-ISOVALERATE","abc + defgh = abc + defgh","","FR","",""
+"R2","L-ALPHA-ALANINE = D-ALANINE","abc = abc","","FR","",""
+"R3","2-KETO-ISOVALERATE + GLT = VAL + 2-KETOGLUTARATE","abcde + fghij = bacde + fghij","","FR","",""

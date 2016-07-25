@@ -1,0 +1,7 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","PRPP + URACIL = PPI + UMP","","","F","",""
+"R2","PRPP + URACIL = PPI + UMP","","","F","",""
+"R3","ATP + UTP + GLN + WATER = PROTON + PROTON + ADP + Pi + CTP + GLT","X + abcdefghi + jklmn + X = X + X + X + X + abcdefghi + jklmn","","F","",""
+"R4","ATP + UTP + GLN + WATER = PROTON + PROTON + ADP + Pi + CTP + GLT","X + abcdefghi + jklmn + X = X + X + X + X + abcdefghi + jklmn","","F","",""
+"R5","UDP + ATP = UTP + ADP","","","F","",""
+"R6","ATP + UMP = ADP + UDP","","","F","",""

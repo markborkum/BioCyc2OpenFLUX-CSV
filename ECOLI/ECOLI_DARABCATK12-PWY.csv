@@ -1,0 +1,5 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","WATER + NAD + GLYCOLALDEHYDE = PROTON + PROTON + NADH + GLYCOLLATE","X + X + ab = X + X + X + ba","","F","",""
+"R2","D-RIBULOSE-1-P = GLYCOLALDEHYDE + DIHYDROXY-ACETONE-PHOSPHATE","abcde = ca + ebd","","FR","",""
+"R3","D-RIBULOSE + ATP = PROTON + D-RIBULOSE-1-P + ADP","abcde + X = X + abcde + X","","F","",""
+"R4","D-arabinopyranose = D-RIBULOSE","abcde = aebdc","","FR","",""

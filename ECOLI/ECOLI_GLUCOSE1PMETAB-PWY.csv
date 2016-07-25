@@ -1,0 +1,7 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","Ubiquinones + Glucopyranose = Ubiquinols + GLC-D-LACTONE","abcdefghijklmn + opqrst = abcdefghijklmn + opqrst","","F","",""
+"R2","GLC-D-LACTONE + WATER = PROTON + GLUCONATE","abcdef + X = X + abcdef","","F","",""
+"R3","ALPHA-GLC-6-P = GLC-6-P","abcdef = abcdef","","FR","",""
+"R4","GLC + ATP = PROTON + GLC-6-P + ADP","abcdef + X = X + abcdef + X","","F","",""
+"R5","GLC-1-P = ALPHA-GLC-6-P","abcdef = abcdef","","FR","",""
+"R6","WATER + GLC-1-P = Pi + Glucopyranose","X + abcdef = X + abcdef","","F","",""

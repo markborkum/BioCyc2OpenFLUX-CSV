@@ -1,0 +1,4 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","NADH-P-OR-NOP + L-ASPARTATE-SEMIALDEHYDE + PROTON = NAD-P-OR-NOP + HOMO-SER","abcdefghijklmnopqrstu + vwyz + X = abcdefghijklmnopqrstu + vwyz","","F","",""
+"R2","PROTON + NADPH + L-BETA-ASPARTYL-P = NADP + Pi + L-ASPARTATE-SEMIALDEHYDE","X + X + abcd = X + X + acbd","","FR","",""
+"R3","L-ASPARTATE + ATP = L-BETA-ASPARTYL-P + ADP","abcd + X = abcd + X","","F","",""

@@ -1,0 +1,5 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","2-KETO-3-DEOXY-6-P-GLUCONATE = GAP + PYRUVATE","abcdef = cbe + adf","","F","",""
+"R2","2-DEHYDRO-3-DEOXY-D-GLUCONATE + ATP = PROTON + 2-KETO-3-DEOXY-6-P-GLUCONATE + ADP","abcdef + X = X + abcdef + X","","F","",""
+"R3","D-MANNONATE = WATER + 2-DEHYDRO-3-DEOXY-D-GLUCONATE","abcdef = X + dacebf","","F","",""
+"R4","FRUCTURONATE + PROTON + NADH = NAD + D-MANNONATE","abcdef + X + X = X + abcdef","","FR","",""

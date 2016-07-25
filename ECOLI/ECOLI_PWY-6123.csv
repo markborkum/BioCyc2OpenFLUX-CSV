@@ -1,0 +1,6 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","5-PHOSPHORIBOSYL-5-AMINOIMIDAZOLE + ATP + HCO3 = PROTON + PROTON + CPD0-181 + ADP + Pi","abcdefgh + X + i = X + X + abcdefghi + X + X","","F","",""
+"R2","CPD0-181 = PHOSPHORIBOSYL-CARBOXY-AMINOIMIDAZOLE","abcdefghi = bcdafgehi","","F","",""
+"R3","PHOSPHORIBOSYL-FORMAMIDO-CARBOXAMIDE = IMP + WATER","abcdefghij = acbdefgihj + X","","FR","",""
+"R4","FORMYL-THF-GLU-N + AICAR = THF-GLU-N + PHOSPHORIBOSYL-FORMAMIDO-CARBOXAMIDE","abcdefghijklmnopqrst + uvwyzABCD = abcdefgihkmlnopqrst + uvjwyzACBD","","FR","",""
+"R5","P-RIBOSYL-4-SUCCCARB-AMINOIMIDAZOLE = FUM + AICAR","abcdefghijklm = damf + bceghijkl","","F","",""

@@ -1,0 +1,2 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","NADH + PROTON + PROTON + PROTON + PROTON + PROTON + Ubiquinones = PROTON + PROTON + PROTON + PROTON + NAD + Ubiquinols","X + X + X + X + X + X + abcdefghijklmn = X + X + X + X + X + abcdefghijklmn","","FR","",""

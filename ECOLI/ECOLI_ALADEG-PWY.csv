@@ -1,0 +1,3 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","ETR-Quinones + WATER + D-ALANINE = ETR-Quinols + AMMONIUM + PYRUVATE","X + X + abc = X + X + abc","","F","",""
+"R2","L-ALPHA-ALANINE = D-ALANINE","abc = abc","","FR","",""

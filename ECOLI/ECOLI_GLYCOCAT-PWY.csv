@@ -1,0 +1,4 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","ALPHA-GLC-6-P = GLC-6-P","abcdef = abcdef","","FR","",""
+"R2","MALTOTETRAOSE + Pi = MALTOTRIOSE + GLC-1-P","abcdefghijklmnopqrstuvwy + X = adcehgijmlpoqtswvy + bfrknu","","FR","",""
+"R3","GLC-1-P = ALPHA-GLC-6-P","abcdef = abcdef","","FR","",""

@@ -1,0 +1,6 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","CPD-618 = SUC + PYRUVATE","abcdefg = cbed + agf","","FR","",""
+"R2","CPD-1136 + WATER = CPD-618","abcdefg + X = abdegfc","","FR","",""
+"R3","CPD-622 = WATER + CPD-1136","abcdefg = X + abcgdef","","F","",""
+"R4","OXALACETIC_ACID + WATER + PROPIONYL-COA = PROTON + CPD-622 + CO-A","abcd + X + efg = X + eafcgdb + X","","F","",""
+"R5","CO-A + PROPIONATE + ATP = PROPIONYL-COA + PPI + AMP","X + abc + X = abc + X + X","","F","",""

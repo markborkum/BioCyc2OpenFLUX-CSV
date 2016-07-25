@@ -1,0 +1,7 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","NICOTINAMIDE_RIBOSE + ATP = PROTON + NICOTINAMIDE_NUCLEOTIDE + ADP","abcdefghijk + X = X + abcdefghijk + X","","F","",""
+"R2","PROTON + NICOTINAMIDE_NUCLEOTIDE + ATP = NAD + PPI","","","F","",""
+"R3","NICOTINAMIDE_NUCLEOTIDE + WATER = NICOTINAMIDE_RIBOSE + Pi","abcdefghijk + X = abcdefghijk + X","","F","",""
+"R4","NADP + WATER = NAD + Pi","","","F","",""
+"R5","WATER + NAD = PROTON + PROTON + NICOTINAMIDE_NUCLEOTIDE + AMP","","","F","",""
+"R6","WATER + NAD = PROTON + PROTON + NICOTINAMIDE_NUCLEOTIDE + AMP","","","F","",""

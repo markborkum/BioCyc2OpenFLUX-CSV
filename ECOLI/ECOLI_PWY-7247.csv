@@ -1,0 +1,4 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","D-Glucopyranuronate = CPD-15530","abcdef = fcabde","","FR","",""
+"R2","WATER + Beta-D-Glucuronides = D-Glucopyranuronate + Alcohols","X + abcdef = abcdef + X","","F","",""
+"R3","CPD-15530 = FRUCTURONATE","abcdef = abcdef","","FR","",""

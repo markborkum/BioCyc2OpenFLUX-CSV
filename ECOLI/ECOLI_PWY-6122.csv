@@ -1,0 +1,6 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","5-PHOSPHO-RIBOSYL-GLYCINEAMIDE + FORMATE + ATP = PROTON + Pi + 5-P-RIBOSYL-N-FORMYLGLYCINEAMIDE + ADP","abcdefg + h + X = X + X + abhcdefg + X","","F","",""
+"R2","ATP + 5-PHOSPHORIBOSYL-N-FORMYLGLYCINEAMIDINE = PROTON + ADP + Pi + 5-PHOSPHORIBOSYL-5-AMINOIMIDAZOLE","X + abcdefgh = X + X + X + abcdefgh","","F","",""
+"R3","ATP + 5-P-BETA-D-RIBOSYL-AMINE + GLY = PROTON + ADP + Pi + 5-PHOSPHO-RIBOSYL-GLYCINEAMIDE","X + abcde + fg = X + X + X + fabgcde","","F","",""
+"R4","PRPP + GLN + WATER = 5-P-BETA-D-RIBOSYL-AMINE + PPI + GLT","abcde + fghij + X = abcde + X + fghij","","F","",""
+"R5","PRPP + GLN + WATER = 5-P-BETA-D-RIBOSYL-AMINE + PPI + GLT","abcde + fghij + X = abcde + X + fghij","","F","",""

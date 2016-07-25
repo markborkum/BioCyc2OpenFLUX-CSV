@@ -1,0 +1,7 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","RIBOSE-1P = RIBOSE-5P","abcde = abcde","","FR","",""
+"R2","GUANOSINE + Pi = RIBOSE-1P + GUANINE","abcdefghij + X = acefi + bdghj","","FR","",""
+"R3","INOSINE + Pi = RIBOSE-1P + HYPOXANTHINE","abcdefghij + X = adfgj + cbehi","","FR","",""
+"R4","PROTON + WATER + ADENOSINE = AMMONIUM + INOSINE","X + X + abcdefghij = X + abcdefgihj","","F","",""
+"R5","ADENOSINE + Pi = RIBOSE-1P + ADENINE","abcdefghij + X = adfgj + cbehi","","FR","",""
+"R6","XANTHOSINE + Pi = RIBOSE-1P + XANTHINE","abcdefghij + X = acefi + bdghj","","F","",""

@@ -1,0 +1,5 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","PANTOTHENATE + ATP = PROTON + 4-P-PANTOTHENATE + ADP","abcdefghi + X = X + bacdefghi + X","","F","",""
+"R2","METHYLENE-THF-GLU-N + 2-KETO-ISOVALERATE + WATER = 2-DEHYDROPANTOATE + THF-GLU-N","abcdefghijklmnopqrst + uvwyz + X = vujyzw + abcdefgihklmnopqrst","","FR","",""
+"R3","PROTON + 2-DEHYDROPANTOATE + NADPH = L-PANTOATE + NADP","X + abcdef + X = bacdef + X","","F","",""
+"R4","B-ALANINE + L-PANTOATE + ATP = PROTON + PANTOTHENATE + PPI + AMP","abc + defghi + X = X + edabfcghi + X + X","","F","",""

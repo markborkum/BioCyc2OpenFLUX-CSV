@@ -1,0 +1,6 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","GALACTOSE = ALPHA-D-GALACTOSE","abcdef = abcdef","","FR","",""
+"R2","PROTON + GLC-1-P + UTP = CPD-12575 + PPI","X + abcdef + ghijklmno = ghaibjkcldmenfo + X","","F","",""
+"R3","CPD-14553 = CPD-12575","abcdefghijklmno = abcdefghijklmno","","FR","",""
+"R4","CPD-12575 + GALACTOSE-1P = CPD-14553 + GLC-1-P","abcdefghijklmno + pqrstu = abpdqfgrisktmuo + cehjln","","FR","",""
+"R5","ALPHA-D-GALACTOSE + ATP = PROTON + GALACTOSE-1P + ADP","abcdef + X = X + abcdef + X","","F","",""

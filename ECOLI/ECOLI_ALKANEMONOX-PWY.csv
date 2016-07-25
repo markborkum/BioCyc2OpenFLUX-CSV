@@ -1,0 +1,3 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","Alkanesulfonates + OXYGEN-MOLECULE + FMNH2 = Aldehydes + SO3 + WATER + FMN + PROTON + PROTON","a + X + bcdefghijklmnopqr = a + X + X + bcdefghijklmnopqr + X + X","","F","",""
+"R2","FMN + NADPH + PROTON + PROTON = FMNH2 + NADP","abcdefghijklmnopq + X + X + X = abcdefghijklmnopq + X","","F","",""

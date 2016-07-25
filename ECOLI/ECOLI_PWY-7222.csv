@@ -1,0 +1,4 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","DGDP + ATP = DGTP + ADP","abcdefghij + X = abcdefghij + X","","F","",""
+"R2","GTP + Reduced-flavodoxins = DGTP + Oxidized-flavodoxins + WATER","abcdefghij + X = fabecidghj + X + X","","F","",""
+"R3","GDP + Red-Thioredoxin = DGDP + Ox-Thioredoxin + WATER","abcdefghij + X = fabecidghj + X + X","","F","",""

@@ -1,0 +1,3 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","NADP + WATER = NAD + Pi","","","F","",""
+"R2","NAD + ATP = PROTON + NADP + ADP","","","F","",""

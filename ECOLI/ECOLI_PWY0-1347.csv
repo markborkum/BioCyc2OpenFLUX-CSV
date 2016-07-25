@@ -1,0 +1,2 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","Menaquinones + PROTON + PROTON + PROTON + PROTON + PROTON + NADH = PROTON + PROTON + PROTON + PROTON + Menaquinols + NAD","abcdefghijklmnop + X + X + X + X + X + X = X + X + X + X + abcdefghijklmnop + X","","F","",""

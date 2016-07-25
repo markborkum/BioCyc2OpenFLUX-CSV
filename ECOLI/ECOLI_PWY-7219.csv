@@ -1,0 +1,5 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","PROTON + PROTON + PROTON + PROTON + Pi + ADP = PROTON + PROTON + PROTON + WATER + ATP","","","FR","",""
+"R2","AMP + ATP = ADP + ADP","","","F","",""
+"R3","ADENYLOSUCC = FUM + AMP","abcd = badc + X","","F","",""
+"R4","L-ASPARTATE + IMP + GTP = PROTON + PROTON + ADENYLOSUCC + Pi + GDP","abcd + efghijklmn + opqrstuvwy = X + X + aefgbhcijkmlnd + X + opqrstuvwy","","F","",""

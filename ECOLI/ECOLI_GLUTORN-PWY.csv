@@ -1,0 +1,6 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","N-ALPHA-ACETYLORNITHINE + WATER = L-ORNITHINE + ACET","abcdefg + X = bcdfg + ae","","F","",""
+"R2","CPD-469 + GLT = N-ALPHA-ACETYLORNITHINE + 2-KETOGLUTARATE","abcdefg + hijkl = abcdefg + hijkl","","F","",""
+"R3","PROTON + N-ACETYL-GLUTAMYL-P + NADPH = CPD-469 + NADP + Pi","X + abcdefg + X = acbfdeg + X + X","","FR","",""
+"R4","ACETYL-GLU + ATP = N-ACETYL-GLUTAMYL-P + ADP","abcdefg + X = abcdefg + X","","F","",""
+"R5","GLT + ACETYL-COA = PROTON + ACETYL-GLU + CO-A","abcde + fg = X + fabgcde + X","","FR","",""

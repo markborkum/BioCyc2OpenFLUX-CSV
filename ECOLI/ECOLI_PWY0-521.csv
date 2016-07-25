@@ -1,0 +1,4 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","PSICOSELYSINE = FRUCTOSELYSINE","abcdefghijkl = abcdefghijkl","","FR","",""
+"R2","FRUCTOSELYSINE + ATP = PROTON + FRUCTOSELYSINE-6-PHOSPHATE + ADP","abcdefghijkl + X = X + abcdefghijkl + X","","F","",""
+"R3","FRUCTOSELYSINE-6-PHOSPHATE + WATER = GLC-6-P + LYS","abcdefghijkl + X = fikjhe + abcdgl","","FR","",""

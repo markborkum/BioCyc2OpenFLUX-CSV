@@ -1,0 +1,6 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","TRANS-D2-ENOYL-COA + WATER = L-3-HYDROXYACYL-COA","abcdefghijklmnopqrstuvwyz + X = abcfghiejklmdnopqrstuvwyz","","F","",""
+"R2","CIS-DELTA3-ENOYL-COA = TRANS-D2-ENOYL-COA","abcdefghijklmnopqrstuvwyz = acbdefghijklmnopqrstuvwyz","","FR","",""
+"R3","CPD66-39 + CO-A + ATP = Saturated-Fatty-Acyl-CoA + PPI + AMP","abcd + X + X = abcd + X + X","","F","",""
+"R4","D-3-HYDROXYACYL-COA = L-3-HYDROXYACYL-COA","abcdefghijklmnopqrstuvwyz = abcdefghijklmnopqrstuvwyz","","FR","",""
+"R5","NAD + L-3-HYDROXYACYL-COA = NADH + 3-KETOACYL-COA + PROTON","X + abcdefghijklmnopqrstuvwyz = X + acbdefghijklmnopqrstuvwyz + X","","F","",""

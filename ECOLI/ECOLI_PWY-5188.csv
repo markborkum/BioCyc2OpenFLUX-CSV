@@ -1,0 +1,6 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","GLT-tRNAs + GLT + ATP + PROTON = Charged-GLT-tRNAs + PPI + AMP","","","F","",""
+"R2","GLUTAMATE-1-SEMIALDEHYDE = 5-AMINO-LEVULINATE","abcde = abcde","","F","",""
+"R3","5-AMINO-LEVULINATE + 5-AMINO-LEVULINATE = PROTON + WATER + WATER + PORPHOBILINOGEN","abcde + fghij = X + X + X + abghcdfiej","","F","",""
+"R4","HYDROXYMETHYLBILANE = WATER + UROPORPHYRINOGEN-III","abcdefghijklmnopqrstuvwyzABCDEFGHIJKLMNO = X + adbcehfgijlkomnqrustvwzypDBCAEGFHKIJLMON","","F","",""
+"R5","HYDROXYMETHYLBILANE = WATER + UROPORPHYRINOGEN-III","abcdefghijklmnopqrstuvwyzABCDEFGHIJKLMNO = X + bacdfeghjkilmnoqsrtuwyvzBpCDEFAGIHJKMNLO","","F","",""

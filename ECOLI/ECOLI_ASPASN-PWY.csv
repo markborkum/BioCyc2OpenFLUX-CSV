@@ -1,0 +1,6 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","ASN + WATER = L-ASPARTATE + AMMONIUM","abcd + X = abcd + X","","F","",""
+"R2","L-ASPARTATE + AMMONIUM + ATP = PROTON + ASN + PPI + AMP","abcd + X + X = X + abcd + X + X","","F","",""
+"R3","OXALACETIC_ACID + GLT = L-ASPARTATE + 2-KETOGLUTARATE","abcd + efghi = abcd + efghi","","FR","",""
+"R4","L-ASPARTATE = AMMONIUM + FUM","abcd = X + abcd","","FR","",""
+"R5","OXALACETIC_ACID + GLT = L-ASPARTATE + 2-KETOGLUTARATE","abcd + efghi = abcd + efghi","","FR","",""

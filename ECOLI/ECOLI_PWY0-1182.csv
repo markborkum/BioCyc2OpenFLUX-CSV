@@ -1,0 +1,5 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","ALPHA-GLUCOSE = GLC","abcdef = abcdef","","FR","",""
+"R2","GLC + ATP = PROTON + GLC-6-P + ADP","abcdef + X = X + abcdef + X","","F","",""
+"R3","TREHALOSE + WATER = GLC + ALPHA-GLUCOSE","abcdefghijkl + X = acegik + bdfhjl","","F","",""
+"R4","TREHALOSE + WATER = GLC + ALPHA-GLUCOSE","abcdefghijkl + X = acegik + bdfhjl","","F","",""

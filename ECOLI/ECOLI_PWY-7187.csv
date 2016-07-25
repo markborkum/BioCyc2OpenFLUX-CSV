@@ -1,0 +1,8 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","CTP + Reduced-flavodoxins = DCTP + Oxidized-flavodoxins + WATER","abcdefghi + X = abgcfdehi + X + X","","F","",""
+"R2","UTP + Reduced-flavodoxins = DUTP + Oxidized-flavodoxins + WATER","abcdefghi + X = abgcfdehi + X + X","","F","",""
+"R3","TDP + ATP = TTP + ADP","abcdefghij + X = abcdefghij + X","","F","",""
+"R4","TMP + ATP = TDP + ADP","abcdefghij + X = abcdefghij + X","","F","",""
+"R5","METHYLENE-THF-GLU-N + DUMP = TMP + DIHYDROFOLATE-GLU-N","abcdefghijklmnopqrst + uvwyzABCD = jwvyuzACBD + abcdefgihklmnopqrst","","F","",""
+"R6","DUTP + WATER = PROTON + DUMP + PPI","abcdefghi + X = X + abcdefghi + X","","F","",""
+"R7","PROTON + WATER + DCTP = AMMONIUM + DUTP","X + X + abcdefghi = X + abcdefghi","","F","",""

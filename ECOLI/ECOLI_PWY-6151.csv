@@ -1,0 +1,7 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","CPD-1302 + HOMO-CYS = MET + CPD-1301","abcdefghijklmnopqrstuvwyzABCDE + FGHI = aFGHI + bcdefghijklmnopqrstuvwyzABCDE","","F","",""
+"R2","S-ADENOSYLMETHIONINE + Demethylated-methyl-acceptors = ADENOSYL-HOMO-CYS + Methylated-methyl-acceptors + PROTON","abcdefghijklmno + X = bcdefghijklmno + a + X","","F","",""
+"R3","ATP + MET + WATER = Pi + PPI + S-ADENOSYLMETHIONINE","X + abcde + X = X + X + abcde","","F","",""
+"R4","ATP + MET + WATER = Pi + PPI + S-ADENOSYLMETHIONINE","X + abcde + X = X + X + abcde","","F","",""
+"R5","CPD-564 = HOMO-CYS + DIHYDROXYPENTANEDIONE","abcdefghi = abdh + ciegf","","F","",""
+"R6","ADENOSYL-HOMO-CYS + WATER = CPD-564 + ADENINE","abcdefghijklmn + X = abcfgijnm + edhkl","","F","",""

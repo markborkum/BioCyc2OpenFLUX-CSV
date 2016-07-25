@@ -1,0 +1,4 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","NAD-P-OR-NOP + S-HYDROXYMETHYLGLUTATHIONE = NADH-P-OR-NOP + CPD-548 + PROTON","abcdefghijklmnopqrstu + vwyzABCDEFG = abcdefghijklmnopqrstu + vwyzABCDEFG + X","","FR","",""
+"R2","FORMALDEHYDE + GLUTATHIONE = S-HYDROXYMETHYLGLUTATHIONE","a + bcdefghijk = bcdeafghijk","","FR","",""
+"R3","CPD-548 + WATER = PROTON + FORMATE + GLUTATHIONE","abcdefghijk + X = X + e + abcdfghijk","","F","",""

@@ -1,0 +1,4 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","CHORISMATE = PREPHENATE","abcdefghij = hcdbageijf","","F","",""
+"R2","PREPHENATE + NAD = P-HYDROXY-PHENYLPYRUVATE + CARBON-DIOXIDE + NADH","abcdefghij + X = dcbaejfgh + i + X","","F","",""
+"R3","P-HYDROXY-PHENYLPYRUVATE + GLT = TYR + 2-KETOGLUTARATE","abcdefghi + jklmn = abcdefghi + jklmn","","FR","",""

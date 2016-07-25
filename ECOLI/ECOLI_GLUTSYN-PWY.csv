@@ -1,0 +1,2 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","PROTON + GLN + 2-KETOGLUTARATE + NADPH = GLT + GLT + NADP","X + abcde + fghij + X = fghij + abcde + X","","F","",""

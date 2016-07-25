@@ -1,0 +1,4 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","D-GALACTONATE = WATER + 2-DEHYDRO-3-DEOXY-D-GALACTONATE","abcdef = X + dacebf","","F","",""
+"R2","DEHYDRO-DEOXY-GALACTONATE-PHOSPHATE = GAP + PYRUVATE","abcdef = cbe + adf","","FR","",""
+"R3","2-DEHYDRO-3-DEOXY-D-GALACTONATE + ATP = PROTON + DEHYDRO-DEOXY-GALACTONATE-PHOSPHATE + ADP","abcdef + X = X + abcdef + X","","F","",""

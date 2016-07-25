@@ -1,0 +1,4 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","CPD-69 + HCO3 + PROTON = CARBAMATE + CARBON-DIOXIDE","a + b + X = a + b","","F","",""
+"R2","CARBON-DIOXIDE + WATER = HCO3 + PROTON","a + X = a + X","","FR","",""
+"R3","CARBAMATE + PROTON + PROTON = AMMONIUM + CARBON-DIOXIDE","a + X + X = X + a","","F","",""

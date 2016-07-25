@@ -1,0 +1,8 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","D-Glucopyranuronate = CPD-15530","abcdef = fcabde","","FR","",""
+"R2","WATER + Beta-D-Glucuronides = D-Glucopyranuronate + Alcohols","X + abcdef = abcdef + X","","F","",""
+"R3","CPD-15530 = FRUCTURONATE","abcdef = abcdef","","FR","",""
+"R4","2-KETO-3-DEOXY-6-P-GLUCONATE = GAP + PYRUVATE","abcdef = cbe + adf","","F","",""
+"R5","2-DEHYDRO-3-DEOXY-D-GLUCONATE + ATP = PROTON + 2-KETO-3-DEOXY-6-P-GLUCONATE + ADP","abcdef + X = X + abcdef + X","","F","",""
+"R6","D-MANNONATE = WATER + 2-DEHYDRO-3-DEOXY-D-GLUCONATE","abcdef = X + dacebf","","F","",""
+"R7","FRUCTURONATE + PROTON + NADH = NAD + D-MANNONATE","abcdef + X + X = X + abcdef","","FR","",""

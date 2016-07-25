@@ -1,0 +1,3 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","L-1-PHOSPHATIDYL-GLYCEROL-P + WATER = L-1-PHOSPHATIDYL-GLYCEROL + Pi","abcdefgh + X = abcdefgh + X","","F","",""
+"R2","CDPDIACYLGLYCEROL + GLYCEROL-3P = CMP + L-1-PHOSPHATIDYL-GLYCEROL-P + PROTON","abcdefghijklmn + opq = abeijklmn + pocdfgqh + X","","FR","",""

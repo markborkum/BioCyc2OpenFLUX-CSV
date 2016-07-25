@@ -1,0 +1,8 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","ATP + Reduced-flavodoxins = DATP + Oxidized-flavodoxins + WATER","","","F","",""
+"R2","DADP + ATP = DATP + ADP","abcdefghij + X = abcdefghij + X","","F","",""
+"R3","ADP + Red-Thioredoxin = DADP + Ox-Thioredoxin + WATER","","","FR","",""
+"R4","PROTON + PROTON + PROTON + PROTON + Pi + ADP = PROTON + PROTON + PROTON + WATER + ATP","","","FR","",""
+"R5","AMP + ATP = ADP + ADP","","","F","",""
+"R6","ADENYLOSUCC = FUM + AMP","abcd = badc + X","","F","",""
+"R7","L-ASPARTATE + IMP + GTP = PROTON + PROTON + ADENYLOSUCC + Pi + GDP","abcd + efghijklmn + opqrstuvwy = X + X + aefgbhcijkmlnd + X + opqrstuvwy","","F","",""

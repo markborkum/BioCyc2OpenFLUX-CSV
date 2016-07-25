@@ -1,0 +1,6 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","MPT-Synthases + ATP + PROTON = Carboxyadenylated-MPT-synthases + PPI","","","F","",""
+"R2","CPD-8122 + CPD-3 + PROTON = CPD-8123 + AMP + WATER","abcdefghij + X + X = abcdefghij + X + X","","F","",""
+"R3","CPD-8122 + CPD-3 + PROTON = CPD-8123 + AMP + WATER","abcdefghij + X + X = abcdefghij + X + X","","F","",""
+"R4","PROTON + CPD-4 + ATP = CPD-8122 + PPI","X + abcdefghij + X = abcdefghij + X","","F","",""
+"R5","GTP = PRECURSOR-Z + PPI","abcdefghij = acidfeghbj + X","","F","",""

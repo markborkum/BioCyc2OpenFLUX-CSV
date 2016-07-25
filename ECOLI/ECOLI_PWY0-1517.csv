@@ -1,0 +1,3 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","D-SEDOHEPTULOSE-1-7-P2 = DIHYDROXY-ACETONE-PHOSPHATE + ERYTHROSE-4P","abcdefg = fbd + gaec","","F","",""
+"R2","D-SEDOHEPTULOSE-7-P + ATP = PROTON + D-SEDOHEPTULOSE-1-7-P2 + ADP","abcdefg + X = X + badcfeg + X","","F","",""

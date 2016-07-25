@@ -1,0 +1,4 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","AMINO-ACETONE + WATER + OXYGEN-MOLECULE = METHYL-GLYOXAL + AMMONIUM + HYDROGEN-PEROXIDE","abc + X + X = abc + X + X","","F","",""
+"R2","AMINO-OXOBUT + PROTON = AMINO-ACETONE + CARBON-DIOXIDE","abcd + X = acb + d","","F","",""
+"R3","THR + NAD = AMINO-OXOBUT + NADH + PROTON","abcd + X = abcd + X + X","","F","",""

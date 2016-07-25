@@ -1,0 +1,8 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","INDOLE + SER = TRP + WATER","abcdefgh + ijk = abcdifegjhk + X","","F","",""
+"R2","INDOLE-3-GLYCEROL-P = INDOLE + GAP","abcdefghijk = abcdhegi + kfj","","FR","",""
+"R3","CHORISMATE + GLN = PROTON + ANTHRANILATE + PYRUVATE + GLT","abcdefghij + klmno = X + hgdcfbj + aei + klmno","","F","",""
+"R4","ANTHRANILATE + PRPP = N-5-PHOSPHORIBOSYL-ANTHRANILATE + PPI","abcdefg + hijkl = abcdhefijklg + X","","F","",""
+"R5","ANTHRANILATE + PRPP = N-5-PHOSPHORIBOSYL-ANTHRANILATE + PPI","abcdefg + hijkl = abcdhefijklg + X","","F","",""
+"R6","N-5-PHOSPHORIBOSYL-ANTHRANILATE = CARBOXYPHENYLAMINO-DEOXYRIBULOSE-P","abcdefghijkl = abcdkefgjhil","","F","",""
+"R7","PROTON + CARBOXYPHENYLAMINO-DEOXYRIBULOSE-P = INDOLE-3-GLYCEROL-P + CARBON-DIOXIDE + WATER","X + abcdefghijkl = abcdefgihjk + l + X","","F","",""

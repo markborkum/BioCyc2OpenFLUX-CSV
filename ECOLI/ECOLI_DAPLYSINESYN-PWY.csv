@@ -1,0 +1,8 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","L-ASPARTATE + ATP = L-BETA-ASPARTYL-P + ADP","abcd + X = abcd + X","","F","",""
+"R2","PROTON + NADPH + L-BETA-ASPARTYL-P = NADP + Pi + L-ASPARTATE-SEMIALDEHYDE","X + X + abcd = X + X + acbd","","FR","",""
+"R3","PYRUVATE + L-ASPARTATE-SEMIALDEHYDE = CPD-14443 + WATER + PROTON","abc + defg = daefbgc + X + X","","F","",""
+"R4","GLT + N-SUCCINYL-2-AMINO-6-KETOPIMELATE = 2-KETOGLUTARATE + N-SUCCINYLLL-2-6-DIAMINOPIMELATE","abcde + fghijklmnop = abcde + fhgijlkmnpo","","FR","",""
+"R5","WATER + N-SUCCINYLLL-2-6-DIAMINOPIMELATE = LL-DIAMINOPIMELATE + SUC","X + abcdefghijk = acbgfkj + edih","","FR","",""
+"R6","PROTON + MESO-DIAMINOPIMELATE = LYS + CARBON-DIOXIDE","X + abcdefg = acbedf + g","","F","",""
+"R7","LL-DIAMINOPIMELATE = MESO-DIAMINOPIMELATE","abcdefg = abcdefg","","FR","",""

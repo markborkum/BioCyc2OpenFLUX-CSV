@@ -1,0 +1,7 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","CIT = CIS-ACONITATE + WATER","abcdef = bafdce + X","","FR","",""
+"R2","OXALACETIC_ACID + ACETYL-COA + WATER = PROTON + CIT + CO-A","abcd + ef + X = X + aecfdb + X","","F","",""
+"R3","CIS-ACONITATE + WATER = THREO-DS-ISO-CITRATE","abcdef + X = bceafd","","FR","",""
+"R4","THREO-DS-ISO-CITRATE = GLYOX + SUC","abcdef = df + abce","","FR","",""
+"R5","ACETYL-COA + WATER + GLYOX = PROTON + MAL + CO-A","ab + X + cd = X + acbd + X","","F","",""
+"R6","MAL + NAD = PROTON + OXALACETIC_ACID + NADH","abcd + X = X + abcd + X","","FR","",""

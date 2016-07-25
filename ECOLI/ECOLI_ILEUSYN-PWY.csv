@@ -1,0 +1,8 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","CPD-15056 = CPD-16013","abcd = abcd","","F","",""
+"R2","PROTON + CPD-16013 + WATER = 2-OXOBUTANOATE + AMMONIUM","X + abcd + X = abcd + X","","F","",""
+"R3","THR = CPD-15056 + WATER + PROTON","abcd = abcd + X + X","","F","",""
+"R4","PROTON + PYRUVATE + 2-OXOBUTANOATE = 2-ACETO-2-HYDROXY-BUTYRATE + CARBON-DIOXIDE","X + abc + defg = daebgf + c","","F","",""
+"R5","PROTON + 2-ACETO-2-HYDROXY-BUTYRATE + NADPH = 1-KETO-2-METHYLVALERATE + NADP","X + abcdef + X = abcfed + X","","F","",""
+"R6","2-KETO-3-METHYL-VALERATE + GLT = ILE + 2-KETOGLUTARATE","abcdef + ghijk = abcdef + ghijk","","FR","",""
+"R7","1-KETO-2-METHYLVALERATE = 2-KETO-3-METHYL-VALERATE + WATER","abcdef = abcfde + X","","F","",""

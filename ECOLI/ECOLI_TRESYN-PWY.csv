@@ -1,0 +1,3 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","TREHALOSE-6P + WATER = TREHALOSE + Pi","abcdefghijkl + X = badcfehgjilk + X","","F","",""
+"R2","CPD-12575 + ALPHA-GLC-6-P = PROTON + UDP + TREHALOSE-6P","abcdef + ghijkl = X + X + agbhcidjekfl","","F","",""

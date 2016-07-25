@@ -1,0 +1,4 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","THYMIDINE + Pi = DEOXY-D-RIBOSE-1-PHOSPHATE + THYMINE","abcdefghij + X = bdfgh + aceij","","FR","",""
+"R2","DEOXYURIDINE + Pi = DEOXY-D-RIBOSE-1-PHOSPHATE + URACIL","abcdefghi + X = cdefh + abgi","","FR","",""
+"R3","PROTON + WATER + DEOXYCYTIDINE = DEOXYURIDINE + AMMONIUM","X + X + abcdefghi = abcdefghi + X","","F","",""

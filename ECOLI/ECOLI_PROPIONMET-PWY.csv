@@ -1,0 +1,4 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","ATP + HCO3 + PROPIONYL-COA = PROTON + ADP + Pi + D-METHYL-MALONYL-COA","X + a + bcdefghijklmnopqrstuvwyz = X + X + X + bcdfghijklmenoqrstuvwyapz","","F","",""
+"R2","METHYL-MALONYL-COA = SUC-COA","abcdefghijklmnopqrstuvwyz = bcladefghijkmnwyopqrstuvz","","FR","",""
+"R3","METHYL-MALONYL-COA = SUC-COA","abcdefghijklmnopqrstuvwyz = cbaldefghijkmnwyopqrstuvz","","FR","",""

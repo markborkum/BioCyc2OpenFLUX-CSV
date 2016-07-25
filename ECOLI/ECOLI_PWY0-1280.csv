@@ -1,0 +1,3 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","NAD + GLYCOL = PROTON + GLYCOLALDEHYDE + NADH","X + ab = X + ab + X","","FR","",""
+"R2","WATER + NAD + GLYCOLALDEHYDE = PROTON + PROTON + NADH + GLYCOLLATE","X + X + ab = X + X + X + ba","","F","",""

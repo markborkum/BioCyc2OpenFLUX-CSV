@@ -1,0 +1,5 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","CPD0-1445 + WATER = L-ALPHA-ALANINE + GLT","abcdefgh + X = adg + bcefh","","F","",""
+"R2","CPD0-2190 = CPD0-1445","abcdefgh = abcdefgh","","FR","",""
+"R3","L-ALA-GAMMA-D-GLU-DAP + WATER = CPD0-2190 + MESO-DIAMINOPIMELATE","abcdefghijklmno + X = aefgjklo + bdcihnm","","F","",""
+"R4","CPD0-1082 + WATER = L-ALA-GAMMA-D-GLU-DAP + D-ALANINE","abcdefghijklmnopqr + X = acdefghjklmnqor + bip","","F","",""

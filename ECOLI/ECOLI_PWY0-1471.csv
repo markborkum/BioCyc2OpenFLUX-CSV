@@ -1,0 +1,7 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","CPD0-2340 + Donor-H2 = CPD0-2339 + WATER + PROTON + Acceptor","abc + X = abc + X + X + X","","F","",""
+"R2","CPD0-2338 + WATER = PROTON + CARBAMATE + CPD0-2340","abcd + X = X + d + abc","","F","",""
+"R3","MALONATE-S-ALD + NADPH + PROTON = 3-HYDROXY-PROPIONATE + NADP","abc + X + X = abc + X","","F","",""
+"R4","PROTON + CPD0-2339 + WATER = MALONATE-S-ALD + AMMONIUM","X + abc + X = abc + X","","F","",""
+"R5","CARBAMATE + PROTON + PROTON = AMMONIUM + CARBON-DIOXIDE","a + X + X = X + a","","F","",""
+"R6","URACIL + OXYGEN-MOLECULE + FMNH2 = PROTON + CPD0-2338 + FMN","abcd + X + efghijklmnopqrstu = X + abcd + efghijklmnopqrstu","","F","",""

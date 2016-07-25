@@ -1,0 +1,5 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","Menaquinones + GLYCEROL-3P = Menaquinols + DIHYDROXY-ACETONE-PHOSPHATE","abcdefghijklmnop + qrs = abcdefghijklmnop + qrs","","F","",""
+"R2","Ubiquinones + GLYCEROL-3P = Ubiquinols + DIHYDROXY-ACETONE-PHOSPHATE","abcdefghijklmn + opq = abcdefghijklmn + opq","","F","",""
+"R3","GLYCEROL + ATP = PROTON + GLYCEROL-3P + ADP","abc + X = X + bac + X","","F","",""
+"R4","GLYCEROL + ATP = PROTON + GLYCEROL-3P + ADP","abc + X = X + abc + X","","F","",""

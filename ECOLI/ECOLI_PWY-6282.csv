@@ -1,0 +1,6 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","Palmitoleoyl-ACPs + WATER = CPD-9245 + ACP + PROTON","","","F","",""
+"R2","3-oxo-cis-D7-tetradecenoyl-ACPs + NADPH + PROTON = 3-hydroxy-cis-D7-tetraecenoyl-ACPs + NADP","","","F","",""
+"R3","3-hydroxy-cis-D7-tetraecenoyl-ACPs = Trans-D3-cis-D7-tetradecenoyl-ACPs + WATER","","","F","",""
+"R4","3-oxo-cis-D9-hexadecenoyl-ACPs + NADPH + PROTON = 3-hydroxy-cis-D9-hexaecenoyl-ACPs + NADP","","","F","",""
+"R5","3-hydroxy-cis-D9-hexaecenoyl-ACPs = Trans-D3-cis-D9-hexadecenoyl-ACPs + WATER","","","F","",""

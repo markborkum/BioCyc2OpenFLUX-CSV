@@ -1,0 +1,4 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","NAD-P-OR-NOP + L-IDONATE = NADH-P-OR-NOP + 5-DEHYDROGLUCONATE + PROTON","abcdefghijklmnopqrstu + vwyzAB = abcdefghijklmnopqrstu + vwyzAB + X","","FR","",""
+"R2","ATP + GLUCONATE = PROTON + ADP + CPD-2961","X + abcdef = X + X + abcdef","","F","",""
+"R3","NADH-P-OR-NOP + 5-DEHYDROGLUCONATE + PROTON = NAD-P-OR-NOP + GLUCONATE","abcdefghijklmnopqrstu + vwyzAB + X = abcdefghijklmnopqrstu + vwyzAB","","FR","",""

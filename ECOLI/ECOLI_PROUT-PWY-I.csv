@@ -1,0 +1,4 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","Ubiquinones + PRO = Ubiquinols + PROTON + L-DELTA1-PYRROLINE_5-CARBOXYLATE","abcdefghijklmn + opqrs = abcdefghijklmn + X + opqrs","","F","",""
+"R2","PROTON + WATER + L-DELTA1-PYRROLINE_5-CARBOXYLATE = L-GLUTAMATE_GAMMA-SEMIALDEHYDE","X + X + abcde = abcde","","FR","",""
+"R3","L-GLUTAMATE_GAMMA-SEMIALDEHYDE + WATER + NAD = GLT + NADH + PROTON + PROTON","abcde + X + X = badce + X + X + X","","F","",""

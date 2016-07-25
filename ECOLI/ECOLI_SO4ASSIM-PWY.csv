@@ -1,0 +1,4 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","APS + ATP = PROTON + PAPS + ADP","abcdefghij + X = X + abcdegfhij + X","","FR","",""
+"R2","PROTON + SULFATE + ATP = APS + PPI","","","F","",""
+"R3","PAPS + Red-Thioredoxin = 3-5-ADP + SO3 + Ox-Thioredoxin + PROTON + PROTON","abcdefghij + X = abcdefghij + X + X + X + X","","F","",""

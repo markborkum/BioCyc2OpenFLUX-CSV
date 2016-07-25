@@ -1,0 +1,6 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","GDP + ATP = GTP + ADP","abcdefghij + X = abcdefghij + X","","F","",""
+"R2","GMP + ATP = GDP + ADP","abcdefghij + X = abcdefghij + X","","F","",""
+"R3","WATER + GLN + XANTHOSINE-5-PHOSPHATE + ATP = PROTON + PROTON + GLT + GMP + PPI + AMP","X + abcde + fghijklmno + X = X + X + abcde + fghijklmno + X + X","","F","",""
+"R4","WATER + GLN + XANTHOSINE-5-PHOSPHATE + ATP = PROTON + PROTON + GLT + GMP + PPI + AMP","X + abcde + fghijklmno + X = X + X + abcde + fghijklmno + X + X","","F","",""
+"R5","WATER + NAD + IMP = PROTON + NADH + XANTHOSINE-5-PHOSPHATE","X + X + abcdefghij = X + X + acdefghijb","","F","",""

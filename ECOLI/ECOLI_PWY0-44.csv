@@ -1,0 +1,4 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","D-Allopyranose + ATP = PROTON + D-ALLOSE-6-PHOSPHATE + ADP","abcdef + X = X + faebdc + X","","F","",""
+"R2","D-ALLULOSE-6-PHOSPHATE = FRUCTOSE-6P","abcdef = badfec","","F","",""
+"R3","D-ALLOSE-6-PHOSPHATE = D-ALLULOSE-6-PHOSPHATE","abcdef = abcdef","","FR","",""

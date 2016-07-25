@@ -1,0 +1,5 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","GLT + ATP = L-GLUTAMATE-5-P + ADP","abcde + X = abcde + X","","F","",""
+"R2","L-GLUTAMATE-5-P + NADPH + PROTON = L-GLUTAMATE_GAMMA-SEMIALDEHYDE + Pi + NADP","abcde + X + X = badce + X + X","","F","",""
+"R3","NADH-P-OR-NOP + L-DELTA1-PYRROLINE_5-CARBOXYLATE + PROTON + PROTON = NAD-P-OR-NOP + PRO","abcdefghijklmnopqrstu + vwyzA + X + X = abcdefghijklmnopqrstu + vwyzA","","F","",""
+"R4","L-GLUTAMATE_GAMMA-SEMIALDEHYDE = PROTON + WATER + L-DELTA1-PYRROLINE_5-CARBOXYLATE","abcde = X + X + abcde","","FR","",""

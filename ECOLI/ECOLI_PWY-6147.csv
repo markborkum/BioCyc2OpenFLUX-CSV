@@ -1,0 +1,6 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","GTP + WATER = PROTON + FORMATE + DIHYDRONEOPTERIN-P3","abcdefghij + X = X + b + iafcdeghj","","F","",""
+"R2","DIHYDRONEOPTERIN-P3 + WATER = PROTON + DIHYDRONEOPTERIN-P + PPI","abcdefghi + X = X + abcdefghi + X","","F","",""
+"R3","DIHYDRONEOPTERIN-P3 + WATER = PROTON + DIHYDRONEOPTERIN-P + PPI","abcdefghi + X = X + abcdefghi + X","","F","",""
+"R4","DIHYDRONEOPTERIN-P + WATER = DIHYDRO-NEO-PTERIN + Pi","abcdefghi + X = abcdefghi + X","","F","",""
+"R5","AMINO-OH-HYDROXYMETHYL-DIHYDROPTERIDINE + ATP = PROTON + DIHYDROPTERIN-CH2OH-PP + AMP","abcdefg + X = X + abcdefg + X","","F","",""

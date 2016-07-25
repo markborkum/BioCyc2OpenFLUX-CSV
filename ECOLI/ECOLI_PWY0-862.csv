@@ -1,0 +1,5 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","Beta-hydroxydecanoyl-ACPs = Trans-D2-decenoyl-ACPs + WATER","","","F","",""
+"R2","Trans-D2-decenoyl-ACPs = Cis-delta-3-decenoyl-ACPs","","","FR","",""
+"R3","b-Keto-cis-D5-dodecenoyl-ACPs + NADPH + PROTON = b-Hydroxy-cis-D5-dodecenoyl-ACPs + NADP","","","F","",""
+"R4","b-Hydroxy-cis-D5-dodecenoyl-ACPs = WATER + Trans-D3-cis-D5-dodecenoyl-ACPs","","","F","",""

@@ -1,0 +1,3 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","CPD-2961 = 2-KETO-3-DEOXY-6-P-GLUCONATE + WATER","abcdef = dacebf + X","","F","",""
+"R2","2-KETO-3-DEOXY-6-P-GLUCONATE = GAP + PYRUVATE","abcdef = cbe + adf","","F","",""

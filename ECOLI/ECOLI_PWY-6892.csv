@@ -1,0 +1,3 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","Thi-S + ATP + PROTON = Adenylated-ThiS-Proteins + PPI","","","F","",""
+"R2","PYRUVATE + GAP + PROTON = CARBON-DIOXIDE + DEOXYXYLULOSE-5P","abc + def + X = c + aebfd","","F","",""

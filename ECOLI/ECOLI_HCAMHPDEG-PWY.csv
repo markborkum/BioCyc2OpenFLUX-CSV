@@ -1,0 +1,6 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","CPD-14447 = OXOPENTENOATE","abcde = abcde","","FR","",""
+"R2","3-PHENYLPROPIONATE + NADH + OXYGEN-MOLECULE + PROTON = CARBOXYETHYL-3-5-CYCLOHEXADIENE-1-2-DIOL + NAD","abcdefghi + X + X + X = bdafghcie + X","","F","",""
+"R3","CARBOXYETHYL-3-5-CYCLOHEXADIENE-1-2-DIOL + NAD = PROTON + 2-3-DIHYDROXYPHENYL-PROPIONATE + NADH","abcdefghi + X = X + abcdefghi + X","","F","",""
+"R4","2-3-DIHYDROXYPHENYL-PROPIONATE + OXYGEN-MOLECULE = PROTON + CPD-157","abcdefghi + X = X + abcdefghi","","F","",""
+"R5","CPD-157 + WATER = CPD-14447 + SUC + PROTON","abcdefghi + X = bacgi + defh + X","","F","",""

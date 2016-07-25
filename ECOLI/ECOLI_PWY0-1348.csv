@@ -1,0 +1,3 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","Menaquinols + DMSO = Menaquinones + WATER + CPD-7670","abcdefghijklmnop + qr = abcdefghijklmnop + X + qr","","FR","",""
+"R2","Menaquinones + PROTON + PROTON + PROTON + PROTON + PROTON + NADH = PROTON + PROTON + PROTON + PROTON + Menaquinols + NAD","abcdefghijklmnop + X + X + X + X + X + X = X + X + X + X + abcdefghijklmnop + X","","F","",""

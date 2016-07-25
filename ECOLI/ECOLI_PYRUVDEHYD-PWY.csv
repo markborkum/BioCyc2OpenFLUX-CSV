@@ -1,0 +1,4 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","PYRUVATE + Pyruvate-dehydrogenase-lipoate + PROTON = Pyruvate-dehydrogenase-acetylDHlipoyl + CARBON-DIOXIDE","abc + defghijklmnopqr + X = daefghijklmnobpqr + c","","F","",""
+"R2","Pyruvate-dehydrogenase-dihydrolipoate + NAD = Pyruvate-dehydrogenase-lipoate + NADH + PROTON","abcdefghijklmno + X = abcdefghijklmno + X + X","","F","",""
+"R3","CO-A + Pyruvate-dehydrogenase-acetylDHlipoyl = ACETYL-COA + Pyruvate-dehydrogenase-dihydrolipoate","X + abcdefghijklmnopq = bn + acdefghijklmopq","","F","",""

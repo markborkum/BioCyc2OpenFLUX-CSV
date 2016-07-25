@@ -1,0 +1,8 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","Pimeloyl-ACPs + L-ALPHA-ALANINE + PROTON = 8-AMINO-7-OXONONANOATE + CARBON-DIOXIDE + ACP","X + abc + X = ab + c + X","","F","",""
+"R2","MALONYL-ACP + S-ADENOSYLMETHIONINE = Malonyl-acp-methyl-ester + ADENOSYL-HOMO-CYS","X + abcdefghijklmn = X + abcdefghijklmn","","F","",""
+"R3","3-Ketoglutaryl-ACP-methyl-ester + NADPH + PROTON = 3-Hydroxyglutaryl-ACP-methyl-ester + NADP","","","F","",""
+"R4","3-Hydroxyglutaryl-ACP-methyl-ester = Enoylglutaryl-ACP-methyl-esters + WATER","","","F","",""
+"R5","3-Ketopimeloyl-ACP-methyl-esters + NADPH + PROTON = 3-hydroxypimeloyl-ACP-methyl-esters + NADP","","","F","",""
+"R6","3-hydroxypimeloyl-ACP-methyl-esters = Enoylpimeloyl-ACP-methyl-esters + WATER","","","F","",""
+"R7","Pimeloyl-ACP-methyl-esters + WATER = Pimeloyl-ACPs + METOH + PROTON","","","F","",""

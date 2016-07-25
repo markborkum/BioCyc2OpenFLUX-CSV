@@ -1,0 +1,4 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","DIHYDROFOLATE-GLU-N + NADPH + PROTON = THF-GLU-N + NADP","abcdefghijklmnopqrs + X + X = abcdefghijklmnopqrs + X","","F","",""
+"R2","GLT + 7-8-DIHYDROPTEROATE + ATP = PROTON + DIHYDROFOLATE + Pi + ADP","abcde + fghijklmnopqrs + X = X + gfihabjklmncdoprqes + X + X","","F","",""
+"R3","P-AMINO-BENZOATE + DIHYDROPTERIN-CH2OH-PP = 7-8-DIHYDROPTEROATE + PPI","abcdefg + hijklmn = badcihefjklmgn + X","","F","",""

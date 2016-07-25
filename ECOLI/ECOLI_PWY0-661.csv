@@ -1,0 +1,4 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","RIBOSE-15-BISPHOSPHATE + ATP = PRPP + ADP","abcde + X = abcde + X","","F","",""
+"R2","RIBOSE-5P = RIBOSE-1P","abcde = abcde","","FR","",""
+"R3","RIBOSE-1P + ATP = PROTON + RIBOSE-15-BISPHOSPHATE + ADP","abcde + X = X + abcde + X","","F","",""

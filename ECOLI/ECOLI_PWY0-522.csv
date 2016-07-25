@@ -1,0 +1,3 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","PROTON + LIPOIC-ACID + ATP = LIPOYL-AMP + PPI","X + abcdefgh + X = abcdefgh + X","","F","",""
+"R2","LIPOYL-AMP + Lipoyl-Protein-L-Lysine = Lipoyl-Protein-N6-lipoyllysine + AMP + PROTON + PROTON","abcdefgh + ijklmn = abijkcdelfmngh + X + X + X","","F","",""

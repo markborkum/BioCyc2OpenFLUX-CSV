@@ -1,0 +1,4 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","GALACTITOL-1-PHOSPHATE + NAD = PROTON + TAGATOSE-6-PHOSPHATE + NADH","abcdef + X = X + badfec + X","","FR","",""
+"R2","TAGATOSE-1-6-DIPHOSPHATE = DIHYDROXY-ACETONE-PHOSPHATE + GAP","abcdef = ebf + dac","","FR","",""
+"R3","TAGATOSE-6-PHOSPHATE + ATP = PROTON + TAGATOSE-1-6-DIPHOSPHATE + ADP","abcdef + X = X + abcdef + X","","F","",""

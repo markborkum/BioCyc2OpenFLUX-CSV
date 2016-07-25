@@ -1,0 +1,3 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","GLY + PROTEIN-LIPOYLLYSINE + PROTON = AMINOMETHYLDIHYDROLIPOYL-GCVH + CARBON-DIOXIDE","ab + cdefghijklmnop + X = cdefghijklmanop + b","","FR","",""
+"R2","DIHYDROLIPOYL-GCVH + NAD = PROTEIN-LIPOYLLYSINE + NADH + PROTON","abcdefghijklmn + X = abcdefghijklmn + X + X","","FR","",""

@@ -1,0 +1,4 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","INOSINE + ATP = PROTON + IMP + ADP","abcdefghij + X = X + abcdefghij + X","","F","",""
+"R2","PROTON + WATER + ADENOSINE = AMMONIUM + INOSINE","X + X + abcdefghij = X + abcdefgihj","","F","",""
+"R3","RIBOSE-1P + ADENINE = ADENOSINE + Pi","abcde + fghij = agfbhcdije + X","","FR","",""

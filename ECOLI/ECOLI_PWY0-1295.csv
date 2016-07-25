@@ -1,0 +1,4 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","RIBOSE-1P = RIBOSE-5P","abcde = abcde","","FR","",""
+"R2","Pi + URIDINE = RIBOSE-1P + URACIL","X + abcdefghi = cdfgh + abei","","FR","",""
+"R3","PROTON + WATER + CYTIDINE = URIDINE + AMMONIUM","X + X + abcdefghi = abcdefghi + X","","F","",""

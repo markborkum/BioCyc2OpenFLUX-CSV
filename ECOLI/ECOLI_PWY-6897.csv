@@ -1,0 +1,6 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","AMINO-HYDROXYMETHYL-METHYL-PYR-P + ATP = AMINO-HYDROXYMETHYL-METHYLPYRIMIDINE-PP + ADP","abcdef + X = abcdef + X","","F","",""
+"R2","ATP + HMP = PROTON + ADP + AMINO-HYDROXYMETHYL-METHYL-PYR-P","X + abcdef = X + X + abcdef","","F","",""
+"R3","THIAMINE-P + ATP = THIAMINE-PYROPHOSPHATE + ADP","abcdefghijkl + X = abcdefghijkl + X","","F","",""
+"R4","PROTON + THZ-P + AMINO-HYDROXYMETHYL-METHYLPYRIMIDINE-PP = THIAMINE-P + PPI","X + abcdef + ghijkl = agbchidejkfl + X","","F","",""
+"R5","ATP + THZ = PROTON + ADP + THZ-P","X + abcdef = X + X + abcdef","","F","",""

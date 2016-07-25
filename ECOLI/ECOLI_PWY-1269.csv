@@ -1,0 +1,5 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","RIBULOSE-5P = ARABINOSE-5P","abcde = abcde","","FR","",""
+"R2","ARABINOSE-5P + WATER + PHOSPHO-ENOL-PYRUVATE = KDO-8P + Pi","abcde + X + fgh = fbagdceh + X","","F","",""
+"R3","KDO-8P + WATER = KDO + Pi","abcdefgh + X = abcdefgh + X","","F","",""
+"R4","KDO + CTP = CMP-KDO + PPI","abcdefgh + ijklmnopq = ijabkcelmfnogphqd + X","","F","",""

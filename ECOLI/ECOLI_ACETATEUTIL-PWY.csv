@@ -1,0 +1,4 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","Pi + ACETYL-COA = ACETYL-P + CO-A","X + ab = ab + X","","FR","",""
+"R2","ACETYL-P + ADP = ACET + ATP","ab + X = ab + X","","FR","",""
+"R3","CO-A + ACET + ATP = ACETYL-COA + PPI + AMP","X + ab + X = ab + X + X","","F","",""

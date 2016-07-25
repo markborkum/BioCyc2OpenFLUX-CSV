@@ -1,0 +1,6 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","CPD-564 = HOMO-CYS + DIHYDROXYPENTANEDIONE","abcdefghi = abdh + ciegf","","F","",""
+"R2","ADENOSYL-HOMO-CYS + WATER = CPD-564 + ADENINE","abcdefghijklmn + X = abcfgijnm + edhkl","","F","",""
+"R3","S-ADENOSYLMETHIONINE + Demethylated-methyl-acceptors = ADENOSYL-HOMO-CYS + Methylated-methyl-acceptors + PROTON","abcdefghijklmno + X = bcdefghijklmno + a + X","","F","",""
+"R4","DIHYDROXYPENTANEDIONE = CPD-10773","abcde = abdec","","F","",""
+"R5","CPD-10773 + WATER = CPD-10774","abcde + X = abced","","F","",""

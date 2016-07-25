@@ -1,0 +1,6 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","CPD0-2463 + WATER = PROTON + RIBOSE-15-BISPHOSPHATE","abcde + X = X + abcde","","F","",""
+"R2","CPD0-2480 = CPD0-2463 + CH4","abcdef = bcdef + a","","F","",""
+"R3","CPD0-2479 + WATER = CPD0-2480 + PPI + PROTON","abcdef + X = abcdef + X + X","","F","",""
+"R4","CPD0-2479 + WATER = CPD0-2480 + PPI + PROTON","abcdef + X = abcdef + X + X","","F","",""
+"R5","CPD0-1068 + ATP = CPD0-2479 + ADENINE","a + X = a + X","","F","",""

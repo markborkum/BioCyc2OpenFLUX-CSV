@@ -1,0 +1,3 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","CDP + ATP = CTP + ADP","abcdefghi + X = abcdefghi + X","","F","",""
+"R2","ATP + CMP = ADP + CDP","X + abcdefghi = X + abcdefghi","","F","",""

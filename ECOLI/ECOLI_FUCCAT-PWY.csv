@@ -1,0 +1,5 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","CPD0-1107 = CPD-10329","abcdef = abcdef","","FR","",""
+"R2","CPD-10329 = L-FUCULOSE","abcdef = afbecd","","FR","",""
+"R3","L-FUCULOSE + ATP = PROTON + FUCULOSE-1P + ADP","abcdef + X = X + abcdef + X","","F","",""
+"R4","FUCULOSE-1P = LACTALD + DIHYDROXY-ACETONE-PHOSPHATE","abcdef = aec + fbd","","FR","",""

@@ -1,0 +1,3 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","HOLO-CITRATE-LYASE + ACET + ATP = CITRATE-LYASE + PPI + AMP","","","F","",""
+"R2","PROTON + DEPHOSPHO-COA + ATP = 2-5-TRIPHOSPHORIBOSYL-3-DEPHOSPHO- + ADENINE","X + abcdefghijklmnopqrstu + X = abcdefghijklmnopqrstu + X","","F","",""

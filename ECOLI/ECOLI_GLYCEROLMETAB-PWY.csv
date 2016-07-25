@@ -1,0 +1,4 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","DIHYDROXYACETONE + PHOSPHO-ENOL-PYRUVATE = DIHYDROXY-ACETONE-PHOSPHATE + PYRUVATE","abc + def = bac + def","","F","",""
+"R2","DIHYDROXYACETONE + PHOSPHO-ENOL-PYRUVATE = DIHYDROXY-ACETONE-PHOSPHATE + PYRUVATE","abc + def = abc + def","","F","",""
+"R3","GLYCEROL + NAD = DIHYDROXYACETONE + NADH + PROTON","abc + X = bac + X + X","","FR","",""

@@ -1,0 +1,5 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","NAD + DIHYDRO-DIOH-BENZOATE = PROTON + NADH + 2-3-DIHYDROXYBENZOATE","X + abcdefg = X + X + abcdefg","","F","",""
+"R2","WATER + ISOCHORISMATE = PYRUVATE + DIHYDRO-DIOH-BENZOATE","X + abcdefghij = aei + bcdfghj","","F","",""
+"R3","WATER + ISOCHORISMATE = PYRUVATE + DIHYDRO-DIOH-BENZOATE","X + abcdefghij = aei + bcdfghj","","F","",""
+"R4","CHORISMATE = ISOCHORISMATE","abcdefghij = acbgefhdij","","FR","",""

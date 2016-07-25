@@ -1,0 +1,5 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","SUCC-S-ALD + NADP + WATER = SUC + NADPH + PROTON + PROTON","abcd + X + X = badc + X + X + X","","F","",""
+"R2","2-KETOGLUTARATE + 4-AMINO-BUTYRATE = GLT + SUCC-S-ALD","abcde + fghi = abcde + fghi","","FR","",""
+"R3","WATER + NAD + SUCC-S-ALD = PROTON + PROTON + NADH + SUC","X + X + abcd = X + X + X + badc","","F","",""
+"R4","2-KETOGLUTARATE + 4-AMINO-BUTYRATE = GLT + SUCC-S-ALD","abcde + fghi = abcde + fghi","","FR","",""

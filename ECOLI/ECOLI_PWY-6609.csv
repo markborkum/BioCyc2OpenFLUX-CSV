@@ -1,0 +1,6 @@
+"rxnID","rxnEq","rxnCTrans","rates","rxnType","basis","deviation"
+"R1","PRPP + HYPOXANTHINE = PPI + IMP","abcde + fghij = X + agfbhcdije","","F","",""
+"R2","PRPP + HYPOXANTHINE = PPI + IMP","abcde + fghij = X + agfbhcdije","","F","",""
+"R3","PROTON + WATER + ADENOSINE = AMMONIUM + INOSINE","X + X + abcdefghij = X + abcdefgihj","","F","",""
+"R4","RIBOSE-1P + ADENINE = ADENOSINE + Pi","abcde + fghij = agfbhcdije + X","","FR","",""
+"R5","INOSINE + Pi = RIBOSE-1P + HYPOXANTHINE","abcdefghij + X = adfgj + cbehi","","FR","",""
